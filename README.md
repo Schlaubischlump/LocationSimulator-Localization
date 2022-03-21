@@ -23,7 +23,7 @@ python3 MainMenuTranslate.py Base.lproj/Localizable.strings -l LANGUAGE_CODE
 ##### Fully supported languages:
 - Englisch
 - German
-- Swedisch
+- Swedish
 
 ##### Partial supported languages:
 - Spanish
