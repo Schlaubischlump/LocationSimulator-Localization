@@ -1,3 +1,16 @@
+# Fully supported languages:
+- Englisch
+- German
+- Swedisch
+
+# Partial supported languages:
+- Spanish
+- Chinese
+- Italian
+
+# Almost no translation: 
+- French
+
 # Localization
 
 These are the official localization files for LocationSimulator. Feel free to fork the project and contribute to an existing language or create a new one. The easiest why to edit these files is by using [LocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor). Just click on the release link on the right sidebar and download the latest release. To contribute a new language follow these steps: 
