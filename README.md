@@ -1,14 +1,14 @@
-# Fully supported languages:
+##### Fully supported languages:
 - Englisch
 - German
 - Swedisch
 
-# Partial supported languages:
+##### Partial supported languages:
 - Spanish
 - Chinese
 - Italian
 
-# Almost no translation: 
+##### Almost no translation: 
 - French
 
 # Localization
