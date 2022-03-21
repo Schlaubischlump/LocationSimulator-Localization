@@ -1,6 +1,7 @@
 #/usr/bin/env python3
 # To get a list with all untranslated keys print pipe the stderr
 
+import os
 import sys
 import plistlib
 import argparse
@@ -20,7 +21,9 @@ mainMenuFile.close()
 
 # Translate the file
 fileToTranslate = open(args.loc_file, "r")
-targetFile = open(f"{key}.strings", "w+")
+
+os.mkdir(key)
+targetFile = open(f"{key}/Localizable.strings", "w+")
 
 totalEntries = 0
 translatedEntries = 0
@@ -35,14 +38,14 @@ for line in fileToTranslate:
         # Replace the application name
         new_value = value.replace(args.appname, "APPLICATIONNAME")
         # Lookup the translation
-        translation = translations.get(new_value, new_value)
+        translation = translations.get(new_value, "")
         # Insert the real application name in the translation
         translation = translation.replace("APPLICATIONNAME", args.appname)
         comp[3] = translation
         # Write the new string
         targetFile.write('"'.join(comp))
         # If a new translation was written
-        if translation != value:
+        if translation and translation != value:
             translatedEntries += 1
             print(f"{key}\t{value}\t{translation}", file=sys.stdout)
         else:

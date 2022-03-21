@@ -1,4 +1,8 @@
+
 "ABOUT_MENUITEM" = "À propos de LocationSimulator";
+
+
+"ADD" = "";
 
 
 "ALIGN_LEFT_MENUITEM" = "Aligner à gauche";
@@ -7,20 +11,19 @@
 "ALIGN_RIGHT_MENUITEM" = "Aligner à droite";
 
 
-"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "Disable this option to only allow USB devices.";
+"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "";
 
 
-"ALLOW_NETWORK_DEVICES_SETTING" = "Allow network devices";
+"ALLOW_NETWORK_DEVICES_SETTING" = "";
 
 
 "APP_HELP_MENUITEM" = "Aide LocationSimulator";
 
 
-"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "Autofocus Location";
+"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "";
 
 
-"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Autofocus current location";
-
+"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "";
 
 "BASELINE_MENU" = "Ligne de base";
 
@@ -37,7 +40,7 @@
 "BRING_ALL_TO_FRONT_MENUITEM" = "Tout ramener au premier plan";
 
 
-"CANCEL" = "Cancel";
+"CANCEL" = "";
 
 
 "CAPITALIZE_MENUITEM" = "Mettre la première lettre en majuscule";
@@ -46,7 +49,13 @@
 "CENTER_MENUITEM" = "Centrer";
 
 
-"CHANGELOG" = "Changes in this version are:\n\n1. App Sandbox support\n2.German localization\n3. Bug fixes\n";
+"CHANGELOG" = "";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED" = "";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "";
 
 
 "CHECK_DOCUMENT_NOW_MENUITEM" = "Vérifier le document maintenant";
@@ -57,14 +66,15 @@
 
 "CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "Vérifier l’orthographe lors de la saisie";
 
-
-"CHOOSE" = "Choose";
-
-
-"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Choose";
+"CHOOSE" = "";
 
 
-"CHOOSE_GPX_FILE" = "Choose a .gpx file";
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "";
+
+
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH_TITLE" = "";
+
+"CHOOSE_GPX_FILE" = "";
 
 
 "CLEAR_MENU_MENUITEM" = "Effacer le menu";
@@ -73,16 +83,16 @@
 "CLOSE_MENUITEM" = "Fermer";
 
 
-"CONFIRM_TELEPORT" = "Confirm Teleportation";
+"CONFIRM_TELEPORT" = "";
 
 
-"CONFIRM_TELEPORTATION_MSG_SETTING" = "Always ask before teleporting.";
+"CONFIRM_TELEPORTATION_MSG_SETTING" = "";
 
 
-"CONFIRM_TELEPORTATION_SETTING" = "Confirm Teleportation";
+"CONFIRM_TELEPORTATION_SETTING" = "";
 
 
-"CONFIRM_TELEPORT_MSG" = "Do you really want to teleport?";
+"CONFIRM_TELEPORT_MSG" = "";
 
 
 "COPY_MENUITEM" = "Copier";
@@ -97,76 +107,121 @@
 "CORRECT_SPELLING_AUTOMATICALLY_MENUITEM" = "Corriger l’orthographe automatiquement";
 
 
-"CURRENT_LOCATION" = "Current Location";
+"CREATE_LOG_FAILED" = "";
 
 
-"CUSTOMIZE_TOOLBAR_MENUITEM" = "Customize Toolbar…";
+"CREATE_LOG_FAILED_MSG" = "";
+
+
+"CURRENT_LOCATION" = "";
+
+
+"CUSTOMIZE_TOOLBAR_MENUITEM" = "";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE" = "";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE_DESCRIPTION" = "";
 
 
 "CUT_MENUITEM" = "Couper";
 
 
-"CYCLE_MENUITEM" = "Cycle";
+"CYCLE_MENUITEM" = "";
 
 
 "DATA_DETECTORS_MENUITEM" = "Détection de données";
 
 
-"DEFAULT_MENUITEM" = "	Par défaut";
+"DEFAULT_MENUITEM" = "";
+
+
+"DELETE_LOG_FAILED" = "";
+
+
+"DELETE_LOG_FAILED_MSG" = "";
+
+
+"DELETE_LOG_TOOLBARITEM" = "";
+
+
+"DELETE_LOG_TOOLBARITEM_TOOLTIP" = "";
 
 
 "DELETE_MENUITEM" = "Supprimer";
 
 
-"DESTINATION" = "Destination";
+"DESTINATION" = "";
 
 
-"DEVDISK_DOWNLOAD_DESC" = "Downloading DeveloperDiskImage.dmg";
+"DEVDISK_BACKUP_FAILED_ERROR_MSG" = "";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR" = "DeveloperDiskImage download failed";
+"DEVDISK_DELETE_FAILED_ERROR" = "";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Failed to download DeveloperDiskImage.dmg or DeveloperDiskImage.dmg.signature";
+"DEVDISK_DELETE_FAILED_ERROR_MSG" = "";
 
 
-"DEVDISK_NOT_FOUND" = "DeveloperDiskImage files not found";
+"DEVDISK_DOWNLOAD_DESC" = "";
 
 
-"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "DiskImages";
+"DEVDISK_DOWNLOAD_FAILED_ERROR" = "";
 
 
-"DEVICE_HEADER" = "Devices";
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "";
 
 
-"DEVSIGN_DOWNLOAD_DESC" = "Downloading DeveloperDiskImage.dmg.signature";
+"DEVDISK_NOT_FOUND" = "";
 
 
-"DRIVE_MENUITEM" = "Drive";
+"DEVDISK_REFRESH_FAILED_ERROR" = "";
+
+
+"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "";
+
+
+"DEVICE_HEADER" = "";
+
+
+"DEVSIGN_DOWNLOAD_DESC" = "";
+
+
+"DRIVE_MENUITEM" = "";
 
 
 "EDIT_MENU" = "Édition";
 
 
-"EMPTY_ROUTE" = "Empty Route";
+"EMPTY_ROUTE" = "";
 
 
-"EMPTY_ROUTE_MSG" = "Not enough coordinates available to start the navigation.";
+"EMPTY_ROUTE_MSG" = "";
 
 
-"ENTER_FULL_SCREEN_MENUITEM" = "Toggle Full Screen";
+"ENTER_FULL_SCREEN_MENUITEM" = "";
 
 
-"ERROR_OPEN_GPX" = "Error Opening GPX File";
+"ERROR_OPEN_GPX" = "";
 
 
-"ERROR_OPEN_GPX_MSG" = "Could not open the selected GPX file.";
+"ERROR_OPEN_GPX_MSG" = "";
 
 
-"ERROR_PARSE_GPX" = "Error Parsing GPX File";
+"ERROR_PARSE_GPX" = "";
 
 
-"ERROR_PARSE_GPX_MSG" = "Could not parse the selected GPX file. The file is possibly damaged or incorrectly formatted.";
+"ERROR_PARSE_GPX_MSG" = "";
+
+
+"EXPORT_LOG_TITLE" = "";
+
+
+"EXPORT_TOOLBARITEM" = "";
+
+
+"EXPORT_TOOLBARITEM_TOOLTIP" = "";
 
 
 "FILE_MENU" = "Fichier";
@@ -202,19 +257,19 @@
 "FORMAT_MENUITEM" = "Format";
 
 
-"GENERAL_TITEL_SETTING" = "General";
+"GENERAL_TITEL_SETTING" = "";
 
 
-"GET_LOCATION_ERROR" = "Could not get location";
+"GET_LOCATION_ERROR" = "";
 
 
-"GET_LOCATION_ERROR_MSG" = "Could not get the current location. Did you allow LocationSimulator to access this mac's location?";
+"GET_LOCATION_ERROR_MSG" = "";
 
 
-"GPX_SELECTION" = "Choose Coordinates";
+"GPX_SELECTION" = "";
 
 
-"GPX_SELECTION_MSG" = "Choose a Track, Track Segment, Route or the Waypoints to start the navigation.";
+"GPX_SELECTION_MSG" = "";
 
 
 "HELP_MENU" = "Aide";
@@ -229,7 +284,10 @@
 "HIDE_OTHERS_MENUITEM" = "Masquer les autres";
 
 
-"INFO_TITLE_SETTING" = "Info";
+"IMAGE_FILE" = "";
+
+
+"INFO_TITLE_SETTING" = "";
 
 
 "ITALIC_MENUITEM" = "Italique";
@@ -247,13 +305,16 @@
 "KERN_MENUITEM" = "Crénage";
 
 
-"LAT" = "Lat";
+"LAT" = "";
 
 
-"LEFT_TO_RIGHT_MENUITEM" = "	De gauche à droite";
+"LEFT_TO_RIGHT_MENUITEM" = "";
 
 
-"LICENSE_TITLE_SETTING" = "License";
+"LEVEL" = "";
+
+
+"LICENSE_TITLE_SETTING" = "";
 
 
 "LIGATURES_MENU" = "Ligatures";
@@ -262,22 +323,28 @@
 "LIGATURES_MENUITEM" = "Ligatures";
 
 
-"LOCATION_CHANGE_ERROR" = "Error changing location";
+"LINE_NUMBER" = "";
 
 
-"LOCATION_CHANGE_ERROR_MSG" = "Could not change the location.";
+"LOCATION_CHANGE_ERROR" = "";
 
 
-"LOCATION_RESET_ERROR_MSG" = "Could not reset location.";
+"LOCATION_CHANGE_ERROR_MSG" = "";
 
 
-"LOCATION_SERVICE_DISABLED" = "Enable location services";
+"LOCATION_RESET_ERROR_MSG" = "";
 
 
-"LOCATION_SERVICE_DISABLED_MSG" = "Location services seem to be disabled. Please activate location services inside System Preferences.";
+"LOCATION_SERVICE_DISABLED" = "";
 
 
-"LONG" = "Long";
+"LOCATION_SERVICE_DISABLED_MSG" = "";
+
+
+"LOG_TITLE" = "";
+
+
+"LONG" = "";
 
 
 "LOOSEN_MENUITEM" = "Desserrer";
@@ -286,16 +353,16 @@
 "LOWER_MENUITEM" = "Abaisser";
 
 
-"MAC_LOCATION_MENUITEM" = "Use Mac Location";
+"MAC_LOCATION_MENUITEM" = "";
 
 
-"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "Current Location";
+"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "";
 
 
-"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Set Mac location to current location";
+"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "";
 
 
-"MAIN_MENU" = "Main Menu";
+"MAIN_MENU" = "";
 
 
 "MAKE_LOWER_CASE_MENUITEM" = "Mettre en minuscules";
@@ -304,52 +371,55 @@
 "MAKE_UPPER_CASE_MENUITEM" = "Mettre en majuscules";
 
 
+"MESSAGE" = "";
+
+
 "MINIMIZE_MENUITEM" = "Placer dans le Dock";
 
 
-"MOUNT_ERROR" = "Could not mount DeveloperDiskImage.dmg";
+"MOUNT_ERROR" = "";
 
 
-"MOUNT_ERROR_MSG" = "The DeveloperDiskImage for this device could not be mounted. Location spoofing will not work.\nIs your device locked?";
+"MOUNT_ERROR_MSG" = "";
 
 
-"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "Move Types";
+"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "";
 
 
-"MOVE_DOWN_MENUITEM" = "Move Down";
+"MOVE_DOWN_MENUITEM" = "";
 
 
-"MOVE_UP_MENUITEM" = "Move Up";
+"MOVE_UP_MENUITEM" = "";
 
 
-"NAVIGATE" = "Navigate";
+"NAVIGATE" = "";
 
 
-"NAVIGATION_MENU" = "Navigation";
+"NAVIGATION_MENU" = "";
 
 
-"NETWORK_TITEL_SETTING" = "Network";
+"NETWORK_TITEL_SETTING" = "";
 
 
-"NO_DEVICE" = "No Device Selected";
+"NO_DEVICE" = "";
 
 
-"NO_DEVICE_ERROR" = "No device found";
+"NO_DEVICE_ERROR" = "";
 
 
-"NO_DEVICE_MSG" = "Please connect a device and select it in the sidebar to start.";
+"NO_DEVICE_MSG" = "";
 
 
-"OK" = "OK";
+"OK" = "";
 
 
-"OPEN_GPX_FILE_MENUITEM" = "Open GPX File…";
+"OPEN_GPX_FILE_MENUITEM" = "";
 
 
-"OPEN_PROJECT_PAGE_MENUITEM" = "Open Project Page";
+"OPEN_PROJECT_PAGE_MENUITEM" = "";
 
 
-"PAIR_ERROR_MSG" = "Could not establish a connection to the device.";
+"PAIR_ERROR_MSG" = "";
 
 
 "PARAGRAPH_MENUITEM" = "Paragraphe";
@@ -367,28 +437,28 @@
 "PASTE_STYLE_MENUITEM" = "Coller le style";
 
 
-"PERMISSION_ERROR" = "Permission error";
+"PERMISSION_ERROR" = "";
 
 
-"PERMISSION_ERROR_MSG" = "Can not access Application Support folder.";
+"PERMISSION_ERROR_MSG" = "";
 
 
 "PREFERENCES_MENUITEM" = "Préférences…";
 
 
-"PREFER_NETWORK_DEVICES_MSG_SETTING" = "Always use the network connection even if a device is connected over USB.";
+"PREFER_NETWORK_DEVICES_MSG_SETTING" = "";
 
 
-"PREFER_NETWORK_DEVICES_SETTING" = "Prefer network devices";
+"PREFER_NETWORK_DEVICES_SETTING" = "";
 
 
-"PRINT_TOOLBARITEM_TOOLTIP" = "Print";
+"PRINT_TOOLBARITEM_TOOLTIP" = "";
 
 
-"PRODUCT_INFO_ERROR" = "Could not get product info";
+"PRODUCT_INFO_ERROR" = "";
 
 
-"PROGRESS" = "Download iOS support files";
+"PROGRESS" = "";
 
 
 "QUIT_APP_MENUITEM" = "Quitter LocationSimulator";
@@ -397,43 +467,55 @@
 "RAISE_MENUITEM" = "Élever";
 
 
-"RECENT_LOCATIONS_MENU" = "Recent Locations";
+"RECENT_LOCATIONS_MENU" = "";
 
 
-"RECENT_LOCATIONS_MENUITEM" = "Recent Locations";
+"RECENT_LOCATIONS_MENUITEM" = "";
 
 
 "REDO_MENUITEM" = "Rétablir";
 
 
-"REPORT_A_BUG_MENUITEM" = "Report a Bug";
+"REFRESH_TOOLBARITEM" = "";
 
 
-"RESET_LOCATION_MENUITEM" = "Reset Location";
+"REFRESH_TOOLBARITEM_TOOLTIP" = "";
 
 
-"RESET_TOOLBARITEM_PALETTELABEL" = "Reset";
+"REPORT_A_BUG_MENUITEM" = "";
 
 
-"RESET_TOOLBARITEM_TOOLTIP" = "Stop faking the device location";
+"RESET_LOCATION_MENUITEM" = "";
 
 
-"RIGHT_TO_LEFT_MENUITEM" = "	De droite à gauche";
+"RESET_TOOLBARITEM_PALETTELABEL" = "";
 
 
-"ROTATE_CLOCKWISE_MENUITEM" = "Rotate Clockwise";
+"RESET_TOOLBARITEM_TOOLTIP" = "";
 
 
-"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "Rotate Counterclockwise";
+"RIGHT_TO_LEFT_MENUITEM" = "";
 
 
-"ROUTE" = "Route";
+"ROTATE_CLOCKWISE_MENUITEM" = "";
 
 
-"SEARCH_PLACEHOLDER" = "Search";
+"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "";
 
 
-"SEARCH_TOOLBARITEM_PALETTELABEL" = "Search";
+"ROUTE" = "";
+
+
+"SAVE_LOG_FAILED" = "";
+
+
+"SAVE_LOG_FAILED_MSG" = "";
+
+
+"SEARCH_PLACEHOLDER" = "";
+
+
+"SEARCH_TOOLBARITEM_PALETTELABEL" = "";
 
 
 "SELECTION_MENUITEM" = "Sélection";
@@ -445,7 +527,7 @@
 "SERVICES_MENUITEM" = "Services";
 
 
-"SET_LOCATION_MENUITEM" = "Set Location…";
+"SET_LOCATION_MENUITEM" = "";
 
 
 "SHOW_ALL_MENUITEM" = "Tout afficher";
@@ -454,19 +536,25 @@
 "SHOW_COLORS_MENUITEM" = "Afficher les couleurs";
 
 
-"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "Show Color Panel";
+"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "";
 
 
 "SHOW_FONTS_MENUITEM" = "Afficher les polices";
 
 
-"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "Show Font Panel";
+"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "";
+
+
+"SHOW_IN_FINDER" = "";
+
+
+"SHOW_LOG" = "";
 
 
 "SHOW_RULER_MENUITEM" = "Afficher la règle";
 
 
-"SHOW_SIDEBAR_MENUITEM" = "Toggle Sidebar";
+"SHOW_SIDEBAR_MENUITEM" = "";
 
 
 "SHOW_SPELLING_AND_GRAMMAR_MENUITEM" = "Afficher l’orthographe et la grammaire";
@@ -475,7 +563,13 @@
 "SHOW_SUBSTITUTIONS_MENUITEM" = "Afficher les substitutions";
 
 
-"SHOW_TOOLBAR_MENUITEM" = "Toggle Toolbar";
+"SHOW_TOOLBAR_MENUITEM" = "";
+
+
+"SIGNATURE_FILE" = "";
+
+
+"SIMULATOR_HEADER" = "";
 
 
 "SMALLER_MENUITEM" = "Plus petit";
@@ -508,7 +602,7 @@
 "START_SPEAKING_MENUITEM" = "Commencer la lecture";
 
 
-"STOP_NAVIGATION_MENUITEM" = "Stop Navigation";
+"STOP_NAVIGATION_MENUITEM" = "";
 
 
 "STOP_SPEAKING_MENUITEM" = "Arrêter la lecture";
@@ -526,13 +620,13 @@
 "SUPERSCRIPT_MENUITEM" = "Exposant";
 
 
-"TELEPORT" = "Teleport";
+"TELEPORT" = "";
 
 
-"TELEPORT_OR_NAVIGATE_GPX_MSG" = "Do you want to navigate or teleport to the start location of this route?";
+"TELEPORT_OR_NAVIGATE_GPX_MSG" = "";
 
 
-"TELEPORT_OR_NAVIGATE_MSG" = "Do you want to teleport or navigate to the destination?";
+"TELEPORT_OR_NAVIGATE_MSG" = "";
 
 
 "TEXT_MENU" = "Texte";
@@ -544,22 +638,25 @@
 "TEXT_REPLACEMENT_MENUITEM" = "Remplacement de texte";
 
 
-"THREAD" = "Thread";
+"THREAD" = "";
 
 
 "TIGHTEN_MENUITEM" = "Resserrer";
 
 
-"TOGGLE_AUTOMOVE_MENUITEM" = "Toggle Automove";
+"TIME" = "";
 
 
-"TOTAL_DISTANCE" = "Total distance: %.3fkm";
+"TOGGLE_AUTOMOVE_MENUITEM" = "";
 
 
-"TRACK" = "Track";
+"TOTAL_DISTANCE" = "";
 
 
-"TRACK_SEGMENT" = "Segment";
+"TRACK" = "";
+
+
+"TRACK_SEGMENT" = "";
 
 
 "TRANSFORMATIONS_MENU" = "Transformations";
@@ -574,10 +671,10 @@
 "UNDO_MENUITEM" = "Annuler";
 
 
-"UNKNOWN_ERROR" = "Unknown error";
+"UNKNOWN_ERROR" = "";
 
 
-"UNKNOWN_ERROR_MSG" = "An unknown error occured. Please disconnect your device and try again.";
+"UNKNOWN_ERROR_MSG" = "";
 
 
 "USE_ALL_MENUITEM" = "Toutes";
@@ -586,10 +683,13 @@
 "USE_DEFAULT_MENUITEM" = "Valeur par défaut";
 
 
-"USE_NONE_MENUITEM" = "Use None";
+"USE_NONE_MENUITEM" = "";
 
 
 "USE_SELECTION_FOR_FIND_MENUITEM" = "Rechercher la sélection";
+
+
+"VERSION" = "";
 
 
 "VIEW_MENU" = "Présentation";
@@ -598,16 +698,16 @@
 "VIEW_MENUITEM" = "Présentation";
 
 
-"WALK_MENUITEM" = "Walk";
+"WALK_MENUITEM" = "";
 
 
-"WARNING_TRIANGLE_TOOLTIP" = "Device not paired";
+"WARNING_TRIANGLE_TOOLTIP" = "";
 
 
-"WAYPOINTS" = "Waypoints";
+"WAYPOINTS" = "";
 
 
-"WELCOME" = "Thanks for using LocationSimulator !\n\nThis software is still in beta. Please report any bugs you find.";
+"WELCOME" = "";
 
 
 "WINDOW_MENU" = "Fenêtre";
@@ -625,7 +725,19 @@
 "ZOOM_MENUITEM" = "Réduire/agrandir";
 
 
-"ZOOM_IN_MENUITEM" = "Zoom In";
+"ZOOM_IN_MENUITEM" = "Zoom avant";
 
 
-"ZOOM_OUT_MENUITEM" = "Zoom Out";
+"ZOOM_OUT_MENUITEM" = "Zoom arrière";
+
+
+"HYBRID_MENU_ITEM" = "";
+
+
+"SATELLITE_MENU_ITEM" = "";
+
+
+"STANDARD_MENU_ITEM" = "";
+
+
+"SPEED_TOOLBARITEM_PALETTELABEL" = "";
