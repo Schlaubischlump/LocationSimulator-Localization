@@ -33,6 +33,10 @@ python3 MainMenuTranslate.py Base.lproj/Localizable.strings -l LANGUAGE_CODE
 ##### Almost no translation: 
 - French
 
+# License
+
+The MainMenuTranslations.plist is extracted from [here](https://github.com/core-code/MiscApps/tree/c396d60ceb6720b4e9c7052c57557c52b525a1be/Translator). It is therefore licened under the MIT license.
+
 # Language codes
 
 <details>
