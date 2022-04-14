@@ -48,7 +48,7 @@
 "CENTER_MENUITEM" = "Centra";
 
 
-"CHANGELOG" = "Cambiamenti in questa versione sono:\n\n1. App Sandbox support\n2. German localization\n3. iPhoneSimulator support\n4. Bug fixes\n";
+"CHANGELOG" = "";
 
 
 "CHECK_DOCUMENT_NOW_MENUITEM" = "Controlla il documento adesso";

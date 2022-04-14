@@ -49,7 +49,7 @@
 "CENTER_MENUITEM" = "Zentriert";
 
 
-"CHANGELOG" = "Letzte Änderrungen:\n\n1. Besseres logging zur Fehleranalyse\n2. Eigner Dateisupportordner";
+"CHANGELOG" = "Letzte Änderrungen:\n\n1. Besseres logging zur Fehleranalyse\n2. Eigener Dateisupportordner\n3. Geschwindigkeitsregler";
 
 
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Ändern Dateisupportordner fehlgeschlagen ";
@@ -734,3 +734,21 @@
 
 
 "SPEED_TOOLBARITEM_PALETTELABEL" = "Geschwindigkeit";
+
+
+"VARY_MOVEMENT_SPEED_SETTING" = "Geschwindigkeit";
+
+
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "Aktivieren um die Geschwindigkeit leicht zu variieren.";
+
+
+"MOVE_WHEN_STANDING_STILL_SETTING" = "Bei Stillstand bewegen";
+
+
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Ändere die GPS position automatisch nach längerer Inaktivität.";
+
+
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Wiederholen";
+
+
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Strecke wiederholen";

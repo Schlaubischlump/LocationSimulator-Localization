@@ -51,7 +51,7 @@
 "CENTER_MENUITEM" = "Centrera";
 
 
-"CHANGELOG" = "Ändringar i denna version är:\n\n1. Stöd för App Sandbox\n2. Tysk lokalisering\n3. Stöd för iPhoneSimulator\n4. Buggfixar\n";
+"CHANGELOG" = "";
 
 /*  */
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Byte av supportkatalog misslyckades";

@@ -46,7 +46,7 @@
 "CENTER_MENUITEM" = "居中";
 
 
-"CHANGELOG" = "这个版本的更改是:\n\n1。应用程序沙箱支持\ n2。德国本地化\ n3。Bug修复\ n";
+"CHANGELOG" = "";
 
 
 "CHECK_DOCUMENT_NOW_MENUITEM" = "立即检查文稿";

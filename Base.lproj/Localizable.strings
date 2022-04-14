@@ -741,3 +741,21 @@
 
 
 "SPEED_TOOLBARITEM_PALETTELABEL" = "Speed";
+
+
+"VARY_MOVEMENT_SPEED_SETTING" = "Vary Movement Speed";
+
+
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "Add a variance to the movement speed.";
+
+
+"MOVE_WHEN_STANDING_STILL_SETTING" = "Move When Standing Still";
+
+
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Enable random movements if the GPS location did not change in a certain time frame.";
+
+
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Autoreverse";
+
+
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Toggle Autoreverse";
