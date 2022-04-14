@@ -49,7 +49,7 @@
 "CENTER_MENUITEM" = "Zentriert";
 
 
-"CHANGELOG" = "Letzte Änderrungen:\n\n1. Besseres logging zur Fehleranalyse\n2. Eigener Dateisupportordner\n3. Geschwindigkeitsregler";
+"CHANGELOG" = "Letzte Änderrungen:\n\n1. Besseres logging zur Fehleranalyse\n2. Eigener Dateisupportordner\n3. Geschwindigkeitsregler\n4. Neues Backend\n5. Bewegung bei Stillstand\n6. Wiederholen von Navigationsrouten\n7. Geschwindigkeit variieren";
 
 
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Ändern Dateisupportordner fehlgeschlagen ";
