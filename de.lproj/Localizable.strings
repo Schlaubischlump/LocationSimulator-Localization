@@ -745,7 +745,7 @@
 "MOVE_WHEN_STANDING_STILL_SETTING" = "Bei Stillstand bewegen";
 
 
-"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Ändere die GPS position automatisch nach längerer Inaktivität.";
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Ändere die GPS-Position automatisch nach längerer Inaktivität.";
 
 
 "AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Wiederholen";
