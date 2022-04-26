@@ -49,9 +49,6 @@
 "CENTER_MENUITEM" = "Zentriert";
 
 
-"CHANGELOG" = "Letzte Änderrungen:\n\n1. Besseres logging zur Fehleranalyse\n2. Eigener Dateisupportordner\n3. Geschwindigkeitsregler\n4. Neues Backend\n5. Bewegung bei Stillstand\n6. Wiederholen von Navigationsrouten\n7. Geschwindigkeit variieren";
-
-
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Ändern Dateisupportordner fehlgeschlagen ";
 
 
@@ -709,7 +706,7 @@
 "WAYPOINTS" = "Wegpunkte";
 
 
-"WELCOME" = "Danke, dass du LocationSimulator verwendest!\n\nBei dieser Software handelt es sich um Beta Software.\nBitte melde jeden Fehler den du findest.";
+"WELCOME" = "Danke, dass du LocationSimulator verwendest!\nBei dieser Software handelt es sich um Beta Software.\nBitte melde jeden Fehler den du findest.\n\nWenn dir diese Software gefällt, lass doch vielleicht eine kleine Spende da um die weitere Entwicklung zu unterstützen.";
 
 
 "WINDOW_MENU" = "Fenster";
@@ -752,3 +749,15 @@
 
 
 "AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Strecke wiederholen";
+
+
+"DONATE_MENUITEM" = "Spenden…";
+
+
+"DONATE_BUTTON" = "Spenden";
+
+
+"COPY_BUTTON" = "Kopieren";
+
+
+"OPEN_BUTTON" = "Öffnen";

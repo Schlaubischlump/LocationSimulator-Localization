@@ -49,9 +49,6 @@
 "CENTER_MENUITEM" = "Center";
 
 
-"CHANGELOG" = "Changes in this version are:\n\n1. Better logging support\n2. Allow changing the support files directory\n3. Backend rewrite \n4. Move when standing still \n5. Autoreverse navigation\n6. Vary movement speed";
-
-
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Changing support directory failed";
 
 
@@ -707,7 +704,7 @@
 "WAYPOINTS" = "Waypoints";
 
 
-"WELCOME" = "Thanks for using LocationSimulator !\n\nThis software is still in beta. Please report any bugs you find.";
+"WELCOME" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
 
 
 "WINDOW_MENU" = "Window";
@@ -759,3 +756,15 @@
 
 
 "AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Toggle Autoreverse";
+
+
+"DONATE_MENUITEM" = "Donate…";
+
+
+"DONATE_BUTTON" = "Donate";
+
+
+"COPY_BUTTON" = "Copy";
+
+
+"OPEN_BUTTON" = "Open";

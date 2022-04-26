@@ -51,12 +51,9 @@
 "CENTER_MENUITEM" = "Centrera";
 
 
-"CHANGELOG" = "";
-
-/*  */
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Byte av supportkatalog misslyckades";
 
-/*  */
+
 "CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "Kunde inte byta supportkatalog.";
 
 

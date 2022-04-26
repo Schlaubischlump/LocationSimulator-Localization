@@ -1,5 +1,5 @@
 
-/* MARK: -- LocationSimulator */
+
 "ABOUT_MENUITEM" = "Informazioni su LocationSimulator";
 
 
@@ -23,7 +23,7 @@
 
 "AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Autofocus posizione attuale";
 
-/* MARK: ------ Baseline */
+
 "BASELINE_MENU" = "Linea di base";
 
 
@@ -48,9 +48,6 @@
 "CENTER_MENUITEM" = "Centra";
 
 
-"CHANGELOG" = "";
-
-
 "CHECK_DOCUMENT_NOW_MENUITEM" = "Controlla il documento adesso";
 
 
@@ -59,13 +56,13 @@
 
 "CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "Controlla ortografia mentre scrivo";
 
-/* MARK: - GPXSelectionView */
+
 "CHOOSE" = "Scegli";
 
-/*  */
+
 "CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Scegli";
 
-/* GPX Alert */
+
 "CHOOSE_GPX_FILE" = "Scegli un file .gpx";
 
 
@@ -74,7 +71,7 @@
 
 "CLOSE_MENUITEM" = "Chiudi";
 
-/* Confirm teleportation. */
+
 "CONFIRM_TELEPORT" = "Conferma Teletrasporto";
 
 
@@ -83,7 +80,7 @@
 
 "CONFIRM_TELEPORTATION_SETTING" = "Conferma Teletrasporto";
 
-/* Confirm teleportation. */
+
 "CONFIRM_TELEPORT_MSG" = "Sei sicuro di volerti teletrasportare?";
 
 
@@ -98,7 +95,7 @@
 
 "CORRECT_SPELLING_AUTOMATICALLY_MENUITEM" = "Correggi automaticamente l'ortografia";
 
-/* Current location annotation */
+
 "CURRENT_LOCATION" = "Posizione attuale";
 
 
@@ -119,7 +116,7 @@
 
 "DELETE_MENUITEM" = "Elimina";
 
-/* MARK: - Alert Buttons */
+
 "DESTINATION" = "Destinazione";
 
 
@@ -134,10 +131,10 @@
 
 "DEVDISK_NOT_FOUND" = "File DeveloperDiskImage non trovati";
 
-/*  */
+
 "DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "DiskImages";
 
-/* Device sidebar */
+
 "DEVICE_HEADER" = "Dispositivi";
 
 
@@ -146,7 +143,7 @@
 
 "DRIVE_MENUITEM" = "Guidare";
 
-/* MARK: -- Edit */
+
 "EDIT_MENU" = "Modifica";
 
 
@@ -167,10 +164,10 @@
 
 "ERROR_PARSE_GPX" = "Errore nel parsing del file GPX";
 
-/* GPXAlert */
+
 "ERROR_PARSE_GPX_MSG" = "Impossibile analizzare il file GPX selezionato. Il file è probabilmente danneggiato o formattato in modo errato.";
 
-/* MARK: -- File */
+
 "FILE_MENU" = "File";
 
 
@@ -179,7 +176,7 @@
 
 "FIND_AND_REPLACE_..._MENUITEM" = "Trova e sostituisci…";
 
-/* MARK: ---- Find */
+
 "FIND_MENU" = "Cerca";
 
 
@@ -191,19 +188,19 @@
 
 "FIND_PREVIOUS_MENUITEM" = "Cerca precedente";
 
-/* MARK: ---- Font */
+
 "FONT_MENU" = "Font";
 
 
 "FONT_MENUITEM" = "Font";
 
-/* MARK: -- Format */
+
 "FORMAT_MENU" = "Formato";
 
 
 "FORMAT_MENUITEM" = "Formato";
 
-/* MARK: -- General */
+
 "GENERAL_TITEL_SETTING" = "Generale";
 
 
@@ -218,7 +215,7 @@
 
 "GPX_SELECTION_MSG" = "Scelga una traccia, un segmento di traccia, un percorso o i waypoint per iniziare la navigazione.";
 
-/* MARK: -- Help */
+
 "HELP_MENU" = "Aiuto";
 
 
@@ -230,7 +227,7 @@
 
 "HIDE_OTHERS_MENUITEM" = "Nascondi altre";
 
-/* MARK: -- INFO */
+
 "INFO_TITLE_SETTING" = "Info";
 
 
@@ -242,28 +239,28 @@
 
 "JUSTIFY_MENUITEM" = "Giustifica";
 
-/* MARK: ------ Kern */
+
 "KERN_MENU" = "Crenatura";
 
 
 "KERN_MENUITEM" = "Crenatura";
 
-/* MARK: - CoordinateSelectionView */
+
 "LAT" = "LAT";
 
 
 "LEFT_TO_RIGHT_MENUITEM" = "	Da sinistra a destra";
 
-/* MARK: -- License */
+
 "LICENSE_TITLE_SETTING" = "Licenza";
 
-/* MARK: ------ Ligatures */
+
 "LIGATURES_MENU" = "Legature";
 
 
 "LIGATURES_MENUITEM" = "Legature";
 
-/* Location change */
+
 "LOCATION_CHANGE_ERROR" = "Errore nel cambio di posizione";
 
 
@@ -272,10 +269,10 @@
 
 "LOCATION_RESET_ERROR_MSG" = "Impossibile effettuare il reset di posizione.";
 
-/* Use mac location */
+
 "LOCATION_SERVICE_DISABLED" = "Abilita i servizi di localizzazione";
 
-/* Use mac location */
+
 "LOCATION_SERVICE_DISABLED_MSG" = "I servizi di localizzazione sembrano essere disabilitati. Attiva i servizi di localizzazione nelle Preferenze di Sistema..";
 
 
@@ -296,7 +293,7 @@
 
 "MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Imposta posizione del Mac come posizione attuale";
 
-/* MARK: - MenuItem */
+
 "MAIN_MENU" = "Menù principale";
 
 
@@ -326,13 +323,13 @@
 
 "NAVIGATE" = "Navigare";
 
-/* MARK: -- Navigation */
+
 "NAVIGATION_MENU" = "Navigation";
 
-/* MARK: -- NETWORK */
+
 "NETWORK_TITEL_SETTING" = "Rete";
 
-/* MARK: - NoDeviceView */
+
 "NO_DEVICE" = "Nessun dispositivo selezionato";
 
 
@@ -350,7 +347,7 @@
 
 "OPEN_PROJECT_PAGE_MENUITEM" = "Apri pagina progetto";
 
-/* MARK: - Alert Messages */
+
 "PAIR_ERROR_MSG" = "Impossibile stabilire una connessione con il dispositivo. Assicurati di aver dato i permessi questo computer sul tuo dispositivo.";
 
 
@@ -389,7 +386,7 @@
 
 "PRODUCT_INFO_ERROR" = "Impossibile ottenere informazioni sul prodotto";
 
-/* MARK: - ProgressView */
+
 "PROGRESS" = "Download file di supporto iOS";
 
 
@@ -416,7 +413,7 @@
 
 "RESET_TOOLBARITEM_PALETTELABEL" = "Reset";
 
-/* Tooltip */
+
 "RESET_TOOLBARITEM_TOOLTIP" = "Interrompere la falsificazione della posizione";
 
 
@@ -431,10 +428,10 @@
 
 "ROUTE" = "Percorso";
 
-/* MARK: - Toolbar */
+
 "SEARCH_PLACEHOLDER" = "Cerca";
 
-/* Palette Label */
+
 "SEARCH_TOOLBARITEM_PALETTELABEL" = "Cerca";
 
 
@@ -497,13 +494,13 @@
 
 "SMART_QUOTES_MENUITEM" = "Virgolette smart";
 
-/* MARK: ---- Speech */
+
 "SPEECH_MENU" = "Voce";
 
 
 "SPEECH_MENUITEM" = "Voce";
 
-/* MARK: ---- Spelling and Grammar */
+
 "SPELLING_GRAMMAR_MENU" = "Ortografia e grammatica";
 
 
@@ -521,7 +518,7 @@
 
 "SUBSCRIPT_MENUITEM" = "Pedice";
 
-/* MARK: ---- Substitutions */
+
 "SUBSTITUTIONS_MENU" = "Sostituzioni";
 
 
@@ -536,10 +533,10 @@
 
 "TELEPORT_OR_NAVIGATE_GPX_MSG" = "Vuoi navigare o teletrasportarti al punto di partenza di questo percorso?";
 
-/* Location change */
+
 "TELEPORT_OR_NAVIGATE_MSG" = "Vuoi teletrasportarti o navigare verso la destinazione?";
 
-/* MARK: ---- Text */
+
 "TEXT_MENU" = "Testo";
 
 
@@ -548,7 +545,7 @@
 
 "TEXT_REPLACEMENT_MENUITEM" = "Sostituzione testo";
 
-/*  */
+
 "THREAD" = "Thread";
 
 
@@ -557,7 +554,7 @@
 
 "TOGGLE_AUTOMOVE_MENUITEM" = "Attiva/disattiva Automove";
 
-/* Total distance label in the bottom bar. */
+
 "TOTAL_DISTANCE" = "Distanza complessiva: %.3fkm";
 
 
@@ -566,7 +563,7 @@
 
 "TRACK_SEGMENT" = "Segmento";
 
-/* MARK: ---- Transformations */
+
 "TRANSFORMATIONS_MENU" = "Trasformazioni";
 
 
@@ -578,7 +575,7 @@
 
 "UNDO_MENUITEM" = "Annulla";
 
-/* MARK: - Alert Titles */
+
 "UNKNOWN_ERROR" = "Errore sconosciuto";
 
 
@@ -596,7 +593,7 @@
 
 "USE_SELECTION_FOR_FIND_MENUITEM" = "Usa selezione per cercare";
 
-/* MARK: -- View */
+
 "VIEW_MENU" = "Vista";
 
 
@@ -605,7 +602,7 @@
 
 "WALK_MENUITEM" = "Cammina";
 
-/* The tooltip for the warning triangle in the lower right corner. */
+
 "WARNING_TRIANGLE_TOOLTIP" = "Dispositivo non accoppiato";
 
 
@@ -614,13 +611,13 @@
 
 "WELCOME" = "Grazie per aver usato LocationSimulator! Questo software è ancora in versione beta. Si prega di segnalare qualsiasi bug che si trova.";
 
-/* MARK: -- Window */
+
 "WINDOW_MENU" = "Finestra";
 
 
 "WINDOW_MENUITEM" = "Finestra";
 
-/* MARK: ------ Writing Direction */
+
 "WRITING_DIRECTION_MENU" = "Direzione scrittura";
 
 
