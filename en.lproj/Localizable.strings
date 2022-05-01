@@ -389,6 +389,12 @@
 "MOVE_UP_MENUITEM" = "Move Up";
 
 
+"MOVE_LEFT_MENUITEM" = "Move Left";
+
+
+"MOVE_RIGHT_MENUITEM" = "Move Right";
+
+
 "NAVIGATE" = "Navigate";
 
 
@@ -768,3 +774,18 @@
 
 
 "OPEN_BUTTON" = "Open";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the arrow keys to move left, right, up or down.";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the left and right arrow to change the heading clockwise or counterclockwise. Use the up and down keys to move.";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Natural";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Traditional";
+
+
+"MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Movement control behaviour:";
