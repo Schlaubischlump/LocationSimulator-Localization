@@ -779,7 +779,7 @@
 "NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the arrow keys to move left, right, up or down.";
 
 
-"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the left and right arrow to change the heading clockwise or counterclockwise. Use the up and down keys to move.";
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the right and left arrow to change the heading clockwise or counterclockwise. Use the up and down keys to move.";
 
 
 "NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Natural";

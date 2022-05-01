@@ -772,7 +772,7 @@
 "NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Benutze die Pfeiltasten um dich nach links, rechts, oben oder unten zu bewegen.";
 
 
-"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Benutze die linke und rechte Pfeiltaste um die Bewegungsrichtung zu ändern. Benutze die oben und unten Taste um dich zu bewegen.";
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Benutze die rechte und linke Pfeiltaste um die Bewegungsrichtung im oder gegen den Uhrzeigersinn zu ändern. Benutze die oben und unten Taste um dich zu bewegen.";
 
 
 "NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Natürlich";
