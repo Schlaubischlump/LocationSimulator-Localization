@@ -782,3 +782,6 @@
 
 
 "MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Bewegungssteuerung:";
+
+
+"NEW_WINDOW_MENUITEM" = "Neues Fenster";
