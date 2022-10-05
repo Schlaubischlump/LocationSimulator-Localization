@@ -1,0 +1,794 @@
+
+"ABOUT_MENUITEM" = "Over LocationSimulator";
+
+
+"ADD" = "Toevoegen";
+
+
+"ALIGN_LEFT_MENUITEM" = "Lijn links uit";
+
+
+"ALIGN_RIGHT_MENUITEM" = "Lijn rechts uit";
+
+
+"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "Schakel deze optie uit om enkel USB apparaten toe te laten.";
+
+
+"ALLOW_NETWORK_DEVICES_SETTING" = "Laat netwerk apparaten toe";
+
+
+"APP_HELP_MENUITEM" = "LocationSimulator Help";
+
+
+"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "Autofocus Locatie";
+
+
+"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Autofocus huidige locatie";
+
+"BASELINE_MENU" = "Basislijn";
+
+
+"BASELINE_MENUITEM" = "Basislijn";
+
+
+"BIGGER_MENUITEM" = "Groter";
+
+
+"BOLD_MENUITEM" = "Vet";
+
+
+"BRING_ALL_TO_FRONT_MENUITEM" = "Alles op voorgrond";
+
+
+"CANCEL" = "Annuleren";
+
+
+"CAPITALIZE_MENUITEM" = "Zet om in beginhoofdletters";
+
+
+"CENTER_MENUITEM" = "Centreer";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED" = "Aanpassen van de support map is mislukt";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "Kon de support map niet aanpassen.";
+
+
+"CHECK_DOCUMENT_NOW_MENUITEM" = "Controleer document nu";
+
+
+"CHECK_GRAMMAR_WHILE_SPELLING" = "Controleer grammatica tegelijk met spelling";
+
+
+"CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "Controleer spelling tijdens typen";
+
+"CHOOSE" = "Kies";
+
+
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Kies";
+
+
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH_TITLE" = "Selecteer support map";
+
+"CHOOSE_GPX_FILE" = "Kies een .gpx bestand";
+
+
+"CLEAR_MENU_MENUITEM" = "Wis menu";
+
+
+"CLOSE_MENUITEM" = "Sluit";
+
+
+"CONFIRM_TELEPORT" = "Bevestig teleportatie";
+
+
+"CONFIRM_TELEPORTATION_MSG_SETTING" = "Vraag altijd bevestiging voor teleportatie.";
+
+
+"CONFIRM_TELEPORTATION_SETTING" = "Bevestig teleportatie";
+
+
+"CONFIRM_TELEPORT_MSG" = "Ben je zeker dat je wil teleporteren?";
+
+
+"COPY_MENUITEM" = "Kopieer";
+
+
+"COPY_RULER_MENUITEM" = "Kopieer liniaal";
+
+
+"COPY_STYLE_MENUITEM" = "Kopieer stijl";
+
+
+"CORRECT_SPELLING_AUTOMATICALLY_MENUITEM" = "Corrigeer spelling automatisch";
+
+
+"CREATE_LOG_FAILED" = "Generatie van de log mislukt";
+
+
+"CREATE_LOG_FAILED_MSG" = "Kon de log gegevens niet exporteren. Vernieuw de log en probeer opnieuw.";
+
+
+"CURRENT_LOCATION" = "Huidige locatie";
+
+
+"CUSTOMIZE_TOOLBAR_MENUITEM" = "Aangepaste Toolbar…";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE" = "Activeer aangepaste support map";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE_DESCRIPTION" = "Dit activeren laat u toe om de DeveloperDiskImages op te slaan in een map naar keuze.";
+
+
+"CUT_MENUITEM" = "Knip";
+
+
+"CYCLE_MENUITEM" = "Fiets";
+
+
+"DATA_DETECTORS_MENUITEM" = "Datadetectie";
+
+
+"DEFAULT_MENUITEM" = "    Standaard";
+
+
+"DELETE_LOG_FAILED" = "Verwijderen van de log mislukt";
+
+
+"DELETE_LOG_FAILED_MSG" = "Kon het logbestand niet verwijderen. Probeer opnieuw.";
+
+
+"DELETE_LOG_TOOLBARITEM" = "Wissen";
+
+
+"DELETE_LOG_TOOLBARITEM_TOOLTIP" = "Wis Log";
+
+
+"DELETE_MENUITEM" = "Verwijder";
+
+
+"DESTINATION" = "Bestemming";
+
+
+"DEVDISK_BACKUP_FAILED_ERROR_MSG" = "Kon de huidige DeveloperDiskImage bestanden niet backuppen.";
+
+
+"DEVDISK_DELETE_FAILED_ERROR" = "Verwijderen van DeveloperDiskImage mislukt";
+
+
+"DEVDISK_DELETE_FAILED_ERROR_MSG" = "Kon de geselecteerde DeveloperDiskImage niet verwijderen. Probeer deze manueel te verwijderen met finder.";
+
+
+"DEVDISK_DOWNLOAD_DESC" = "Downloaden van DeveloperDiskImage.dmg";
+
+
+"DEVDISK_DOWNLOAD_FAILED_ERROR" = "Download van DeveloperDiskImage mislukt";
+
+
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Het is mislukt om DeveloperDiskImage.dmg of DeveloperDiskImage.dmg.signature te downloaden";
+
+
+"DEVDISK_NOT_FOUND" = "DeveloperDiskImage bestanden niet gevonden";
+
+
+"DEVDISK_REFRESH_FAILED_ERROR" = "Vernieuwen van DeveloperDiskImage mislukt";
+
+
+"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "DiskImages";
+
+
+"DEVICE_HEADER" = "Apparaten";
+
+
+"DEVSIGN_DOWNLOAD_DESC" = "Downloaden van DeveloperDiskImage.dmg.signature";
+
+
+"DRIVE_MENUITEM" = "Rijden";
+
+
+"EDIT_MENU" = "Wijzig";
+
+
+"EMPTY_ROUTE" = "Lege Route";
+
+
+"EMPTY_ROUTE_MSG" = "Onvoldoende coordinaten beschikbaar om de navigatie te starten.";
+
+
+"ENTER_FULL_SCREEN_MENUITEM" = "Wissel volledig scherm";
+
+
+"ERROR_OPEN_GPX" = "Fout bij openen van GPX bestand";
+
+
+"ERROR_OPEN_GPX_MSG" = "Kon het geselecteerde GPX bestand niet openen.";
+
+
+"ERROR_PARSE_GPX" = "Fout bij het verwerken van het GPX bestand";
+
+
+"ERROR_PARSE_GPX_MSG" = "Kon het geselecteerde GPX bestand niet verwerken. Het bestand is mogelijk beschadigd of onjuist geformateerd.";
+
+
+"EXPORT_LOG_TITLE" = "Exporteer LocationSimulator log";
+
+
+"EXPORT_TOOLBARITEM" = "Exporteer";
+
+
+"EXPORT_TOOLBARITEM_TOOLTIP" = "Exporteer log";
+
+
+"FILE_MENU" = "Archief";
+
+
+"FIND..._MENUITEM" = "Zoek…";
+
+
+"FIND_AND_REPLACE_..._MENUITEM" = "Zoek en vervang…";
+
+
+"FIND_MENU" = "Zoek";
+
+
+"FIND_MENUITEM" = "Zoek";
+
+
+"FIND_NEXT_MENUITEM" = "Zoek volgende";
+
+
+"FIND_PREVIOUS_MENUITEM" = "Zoek vorige";
+
+
+"FONT_MENU" = "Lettertype";
+
+
+"FONT_MENUITEM" = "Lettertype";
+
+
+"FORMAT_MENU" = "Format";
+
+
+"FORMAT_MENUITEM" = "Format";
+
+
+"GENERAL_TITEL_SETTING" = "Algemeen";
+
+
+"GET_LOCATION_ERROR" = "Kon geen locatie verkrijgen";
+
+
+"GET_LOCATION_ERROR_MSG" = "Kon de huidige locatie niet verkrijgen, liet u LocationSimulator toe om toegang te krijgen tot de locatie van deze mac?";
+
+
+"GPX_SELECTION" = "Kies Coordinaten";
+
+
+"GPX_SELECTION_MSG" = "Kies een weg, wegsegment, route of de Wegpunten om te starten met de navigatie.";
+
+
+"HELP_MENU" = "Help";
+
+
+"HELP_MENUITEM" = "Help";
+
+
+"HIDE_APP_MENUITEM" = "Verberg LocationSimulator";
+
+
+"HIDE_OTHERS_MENUITEM" = "Verberg andere";
+
+
+"IMAGE_FILE" = "Afbeelding";
+
+
+"INFO_TITLE_SETTING" = "Info";
+
+
+"ITALIC_MENUITEM" = "Cursief";
+
+
+"JUMP_TO_SELECTION_MENUITEM" = "Ga naar selectie";
+
+
+"JUSTIFY_MENUITEM" = "Vul uit";
+
+
+"KERN_MENU" = "Kern";
+
+
+"KERN_MENUITEM" = "Kern";
+
+
+"LAT" = "Lat";
+
+
+"LEFT_TO_RIGHT_MENUITEM" = "    Links naar rechts";
+
+
+"LEVEL" = "Level";
+
+
+"LICENSE_TITLE_SETTING" = "Licentie";
+
+
+"LIGATURES_MENU" = "Ligaturen";
+
+
+"LIGATURES_MENUITEM" = "Ligaturen";
+
+
+"LINE_NUMBER" = "Rij";
+
+
+"LOCATION_CHANGE_ERROR" = "Fout bij aanpassen van de locatie";
+
+
+"LOCATION_CHANGE_ERROR_MSG" = "Kon de locatie niet aanpassen.";
+
+
+"LOCATION_RESET_ERROR_MSG" = "Kon de locatie niet herstellen.";
+
+
+"LOCATION_SERVICE_DISABLED" = "Schakel locatie services in";
+
+
+"LOCATION_SERVICE_DISABLED_MSG" = "Locatie services lijkt uitgeschakeld, gelieve deze te actieveren in systeeminstellingen.";
+
+
+"LOG_TITLE" = "Log";
+
+
+"LONG" = "Long";
+
+
+"LOOSEN_MENUITEM" = "Uitgerekt";
+
+
+"LOWER_MENUITEM" = "Omlaag";
+
+
+"MAC_LOCATION_MENUITEM" = "Gebruik de locatie van de Mac";
+
+
+"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "Huidige locatie";
+
+
+"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Stel de locatie van de mac in als huidige locatie";
+
+
+"MAIN_MENU" = "Hoofdenu";
+
+
+"MAKE_LOWER_CASE_MENUITEM" = "Zet om in kleine letters";
+
+
+"MAKE_UPPER_CASE_MENUITEM" = "Zet om in hoofdletters";
+
+
+"MESSAGE" = "Bericht";
+
+
+"MINIMIZE_MENUITEM" = "Minimaliseer";
+
+
+"MOUNT_ERROR" = "Kon DeveloperDiskImage.dmg niet koppelen";
+
+
+"MOUNT_ERROR_MSG" = "De DeveloperDiskImage voor dit toestel kon niet worden gekoppeld. De locatie spoofen zal niet werken.\nIs uw toestel nog gelockt?";
+
+
+"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "Bewegingstypes";
+
+
+"MOVE_DOWN_MENUITEM" = "Beweeg naar beneden";
+
+
+"MOVE_UP_MENUITEM" = "Beweeg naar boven";
+
+
+"MOVE_LEFT_MENUITEM" = "Beweeg naar links";
+
+
+"MOVE_RIGHT_MENUITEM" = "Beweeg naar rechts";
+
+
+"NAVIGATE" = "Navigeer";
+
+
+"NAVIGATION_MENU" = "Navigatie";
+
+
+"NETWORK_TITEL_SETTING" = "Netwerk";
+
+
+"NO_DEVICE" = "Geen apparaat geselecteerd";
+
+
+"NO_DEVICE_ERROR" = "Geen apparaat gevonden";
+
+
+"NO_DEVICE_MSG" = "Verbind een apparaat en selecteer deze aan de zijkant om te beginnen.";
+
+
+"OK" = "OK";
+
+
+"OPEN_GPX_FILE_MENUITEM" = "Open GPX bestand…";
+
+
+"OPEN_PROJECT_PAGE_MENUITEM" = "Open Project pagina";
+
+
+"PAIR_ERROR_MSG" = "Kon geen verbinding maken met het apparaat. Vergewis u ervan dat dit apparaat uw computer vertrouwd.";
+
+
+"PARAGRAPH_MENUITEM" = "Paragraaf";
+
+
+"PASTE_AND_MATCH_STYLE_MENUITEM" = "Plak en pas stijl aan";
+
+
+"PASTE_MENUITEM" = "Plak";
+
+
+"PASTE_RULER_MENUITEM" = "Plak liniaal";
+
+
+"PASTE_STYLE_MENUITEM" = "Plak stijl";
+
+
+"PERMISSION_ERROR" = "Toegangsfout";
+
+
+"PERMISSION_ERROR_MSG" = "Kan de applicatie support folder niet benaderen.";
+
+
+"PREFERENCES_MENUITEM" = "Voorkeuren…";
+
+
+"PREFER_NETWORK_DEVICES_MSG_SETTING" = "Gebruik altijd de netwerkverbinding ook al is het apparaat verbonden via USB.";
+
+
+"PREFER_NETWORK_DEVICES_SETTING" = "Geef de voorkeur aan netwerk apparaten";
+
+
+"PRINT_TOOLBARITEM_TOOLTIP" = "Print";
+
+
+"PRODUCT_INFO_ERROR" = "Kon geen product info verkrijgen";
+
+
+"PROGRESS" = "Download iOS support bestanden";
+
+
+"QUIT_APP_MENUITEM" = "Stop LocationSimulator";
+
+
+"RAISE_MENUITEM" = "Omhoog";
+
+
+"RECENT_LOCATIONS_MENU" = "Recente Locaties";
+
+
+"RECENT_LOCATIONS_MENUITEM" = "Recente Locaties";
+
+
+"REDO_MENUITEM" = "Opnieuw";
+
+
+"REFRESH_TOOLBARITEM" = "Verversen";
+
+
+"REFRESH_TOOLBARITEM_TOOLTIP" = "Ververs log";
+
+
+"REPORT_A_BUG_MENUITEM" = "Rapporteer een bug";
+
+
+"RESET_LOCATION_MENUITEM" = "Herstel Locatie";
+
+
+"RESET_TOOLBARITEM_PALETTELABEL" = "Reset";
+
+
+"RESET_TOOLBARITEM_TOOLTIP" = "Stop met de locatie te manipuleren";
+
+
+"RIGHT_TO_LEFT_MENUITEM" = "    Rechts naar links";
+
+
+"ROTATE_CLOCKWISE_MENUITEM" = "Roteer met de klok mee";
+
+
+"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "Roteer tegen de klok in";
+
+
+"ROUTE" = "Route";
+
+
+"SAVE_LOG_FAILED" = "Opslaan van de log is mislukt";
+
+
+"SAVE_LOG_FAILED_MSG" = "Kon het log bestand niet opslaan. Vergewis u ervan of de gebruiker schrijfrechten heeft tot deze folder.";
+
+
+"SEARCH_PLACEHOLDER" = "Zoek";
+
+
+"SEARCH_TOOLBARITEM_PALETTELABEL" = "Zoek";
+
+
+"SELECTION_MENUITEM" = "Selectie";
+
+
+"SELECT_ALL_MENUITEM" = "Selecteer alles";
+
+
+"SERVICES_MENUITEM" = "Services";
+
+
+"SET_LOCATION_MENUITEM" = "Zet Location…";
+
+
+"SHOW_ALL_MENUITEM" = "Toon alles";
+
+
+"SHOW_COLORS_MENUITEM" = "Toon kleuren";
+
+
+"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "Toon kleuren Paneel";
+
+
+"SHOW_FONTS_MENUITEM" = "Toon lettertypen";
+
+
+"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "Toon Font Paneel";
+
+
+"SHOW_IN_FINDER" = "Toon in Finder";
+
+
+"SHOW_LOG" = "Log…";
+
+
+"SHOW_RULER_MENUITEM" = "Toon liniaal";
+
+
+"SHOW_SIDEBAR_MENUITEM" = "Wissel Sidebar";
+
+
+"SHOW_SPELLING_AND_GRAMMAR_MENUITEM" = "Toon spelling en grammatica";
+
+
+"SHOW_SUBSTITUTIONS_MENUITEM" = "Toon vervangingen";
+
+
+"SHOW_TOOLBAR_MENUITEM" = "Wissel Toolbar";
+
+
+"SIGNATURE_FILE" = "Handtekening";
+
+
+"SIMULATOR_HEADER" = "Simulators";
+
+
+"SMALLER_MENUITEM" = "Kleiner";
+
+
+"SMART_COPY_PASTE_MENUITEM" = "Slim kopiëren/plakken";
+
+
+"SMART_DASHES_MENUITEM" = "Slimme streepjes";
+
+
+"SMART_LINKS_MENUITEM" = "Slimme koppelingen";
+
+
+"SMART_QUOTES_MENUITEM" = "Slimme aanhalingstekens";
+
+
+"SPEECH_MENU" = "Spraak";
+
+
+"SPEECH_MENUITEM" = "Spraak";
+
+
+"SPELLING_GRAMMAR_MENU" = "Spelling en grammatica";
+
+
+"SPELLING_GRAMMAR_MENUITEM" = "Spelling en grammatica";
+
+
+"START_SPEAKING_MENUITEM" = "Start spraakfunctie";
+
+
+"STOP_NAVIGATION_MENUITEM" = "Stop navigatie";
+
+
+"STOP_SPEAKING_MENUITEM" = "Stop spraakfunctie";
+
+
+"SUBSCRIPT_MENUITEM" = "Subscript";
+
+
+"SUBSTITUTIONS_MENU" = "Substituties";
+
+
+"SUBSTITUTIONS_MENUITEM" = "Substituties";
+
+
+"SUPERSCRIPT_MENUITEM" = "Superscript";
+
+
+"TELEPORT" = "Teleporteer";
+
+
+"TELEPORT_OR_NAVIGATE_GPX_MSG" = "Do you want to navigate or teleport to the start location of this route?";
+
+
+"TELEPORT_OR_NAVIGATE_MSG" = "Do you want to teleport or navigate to the destination?";
+
+
+"TEXT_MENU" = "Tekst";
+
+
+"TEXT_MENUITEM" = "Tekst";
+
+
+"TEXT_REPLACEMENT_MENUITEM" = "Tekstvervanging";
+
+
+"THREAD" = "Thread";
+
+
+"TIGHTEN_MENUITEM" = "Versmald";
+
+
+"TIME" = "Time";
+
+
+"TOGGLE_AUTOMOVE_MENUITEM" = "Toggle Automove";
+
+
+"TOTAL_DISTANCE" = "Total distance: %.3fkm";
+
+
+"TRACK" = "Track";
+
+
+"TRACK_SEGMENT" = "Segment";
+
+
+"TRANSFORMATIONS_MENU" = "Transformations";
+
+
+"TRANSFORMATIONS_MENUITEM" = "Transformations";
+
+
+"UNDERLINE_MENUITEM" = "Onderstreept";
+
+
+"UNDO_MENUITEM" = "Herstel";
+
+
+"UNKNOWN_ERROR" = "Unknown error";
+
+
+"UNKNOWN_ERROR_MSG" = "An unknown error occured. Please disconnect your device and try again.";
+
+
+"USE_ALL_MENUITEM" = "Alle";
+
+
+"USE_DEFAULT_MENUITEM" = "Standaard";
+
+
+"USE_NONE_MENUITEM" = "Geen";
+
+
+"USE_SELECTION_FOR_FIND_MENUITEM" = "Gebruik selectie voor zoekactie";
+
+
+"VERSION" = "Version";
+
+
+"VIEW_MENU" = "Weergave";
+
+
+"VIEW_MENUITEM" = "Weergave";
+
+
+"WALK_MENUITEM" = "Walk";
+
+
+"WARNING_TRIANGLE_TOOLTIP" = "Device not paired";
+
+
+"WAYPOINTS" = "Waypoints";
+
+
+"WELCOME" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
+
+
+"WINDOW_MENU" = "Window";
+
+
+"WINDOW_MENUITEM" = "Window";
+
+
+"WRITING_DIRECTION_MENU" = "Writing Direction";
+
+
+"WRITING_DIRECTION_MENUITEM" = "Writing Direction";
+
+
+"ZOOM_MENUITEM" = "Vergroot/verklein";
+
+
+"ZOOM_IN_MENUITEM" = "Zoom in";
+
+
+"ZOOM_OUT_MENUITEM" = "Zoom uit";
+
+
+"HYBRID_MENU_ITEM" = "Hybrid";
+
+
+"SATELLITE_MENU_ITEM" = "Satellite";
+
+
+"STANDARD_MENU_ITEM" = "Explore";
+
+
+"SPEED_TOOLBARITEM_PALETTELABEL" = "Speed";
+
+
+"VARY_MOVEMENT_SPEED_SETTING" = "Vary Movement Speed";
+
+
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "Add a variance to the movement speed.";
+
+
+"MOVE_WHEN_STANDING_STILL_SETTING" = "Move When Standing Still";
+
+
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Enable random movements if the GPS location did not change in a certain time frame.";
+
+
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Autoreverse";
+
+
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Toggle Autoreverse";
+
+
+"DONATE_MENUITEM" = "Donate…";
+
+
+"DONATE_BUTTON" = "Donate";
+
+
+"COPY_BUTTON" = "Kopieer";
+
+
+"OPEN_BUTTON" = "Open";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the arrow keys to move left, right, up or down.";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Use the right and left arrow to change the heading clockwise or counterclockwise. Use the up and down keys to move.";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Natural";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Traditional";
+
+
+"MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Movement control behaviour:";
+
+
+"NEW_WINDOW_MENUITEM" = "New Window";
