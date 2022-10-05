@@ -326,7 +326,7 @@
 "LOCATION_CHANGE_ERROR" = "Error changing location";
 
 
-"LOCATION_CHANGE_ERROR_MSG" = "Could not change the location.";
+"LOCATION_CHANGE_ERROR_MSG" = "Could not change the location. If you are using iOS 16 or later make sure you have developer mode enabled.";
 
 
 "LOCATION_RESET_ERROR_MSG" = "Could not reset location.";

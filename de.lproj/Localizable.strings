@@ -328,7 +328,7 @@
 "LOCATION_CHANGE_ERROR" = "Fehler beim Ändern des Standorts";
 
 
-"LOCATION_CHANGE_ERROR_MSG" = "Standort konnte nicht geändert werden.";
+"LOCATION_CHANGE_ERROR_MSG" = "Standort konnte nicht geändert werden. Falls du iOS 16 oder neuer verwendest stelle sicher, dass der Entwicklermodus aktiviert ist.";
 
 
 "LOCATION_RESET_ERROR_MSG" = "Standort konnte nicht zurückgesetzt werden.";
