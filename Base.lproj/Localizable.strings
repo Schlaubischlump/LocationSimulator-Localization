@@ -798,3 +798,6 @@
 
 
 "DEVMODE_ERROR_MSG" = "To enable Developer Mode go to Settings > Privacy & Security on your iOS device. Scroll down to the Developer Mode list item and navigate into it. Toggle the Developer Mode switch to on.";
+
+
+"OF" = "of";

@@ -790,4 +790,7 @@
 "DEVMODE_ERROR" = "Entwicklermodus ist nicht aktiviert";
 
 
-"DEVMODE_ERROR_MSG" = "Um den Entwicklermodus zu aktivieren öffne Einstellungen > Datenschutz auf deinem iOS Gerät. Scrolle nach unten bis zum Entwicklermodus Menüpunkt und öffne ihn. Aktiviere den Entwicklermodus Schieberegler.";
+"DEVMODE_ERROR_MSG" = "Um den Entwicklermodus zu aktivieren öffne Einstellungen > Datenschutz & Sicherheit auf deinem iOS Gerät. Scrolle nach unten bis zum Entwicklermodus Menüpunkt und öffne ihn. Aktiviere den Entwicklermodus Schieberegler.";
+
+
+"OF" = "von";
