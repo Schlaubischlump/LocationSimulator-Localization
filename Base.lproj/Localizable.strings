@@ -161,6 +161,9 @@
 "DEVDISK_DELETE_FAILED_ERROR_MSG" = "Could not delete the selected DeveloperDiskImage. Try to delete it manually using the finder.";
 
 
+"DEVDISK_UPDATE_DESC" = "Updating DeveloperDiskImage downloads";
+
+
 "DEVDISK_DOWNLOAD_DESC" = "Downloading DeveloperDiskImage.dmg";
 
 

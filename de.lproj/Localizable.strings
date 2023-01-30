@@ -794,3 +794,6 @@
 
 
 "OF" = "von";
+
+
+"DEVDISK_UPDATE_DESC" = "Aktualisiere DeveloperDiskImage Downloads";
