@@ -538,6 +538,15 @@
 "SET_LOCATION_MENUITEM" = "Standort festlegen …";
 
 
+"SET_SPEED_MENUITEM" = "Geschwindigkeit setzen…";
+
+
+"CHANGE_SPEED" = "Geschwindigkeit ändern";
+
+
+"SPEED" = "Geschwindigkeit";
+
+
 "SHOW_ALL_MENUITEM" = "Alle einblenden";
 
 

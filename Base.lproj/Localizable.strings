@@ -536,6 +536,15 @@
 "SET_LOCATION_MENUITEM" = "Set Location…";
 
 
+"SET_SPEED_MENUITEM" = "Set Speed…";
+
+
+"CHANGE_SPEED" = "Change speed";
+
+
+"SPEED" = "Speed";
+
+
 "SHOW_ALL_MENUITEM" = "Show All";
 
 
