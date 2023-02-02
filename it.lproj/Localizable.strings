@@ -609,7 +609,7 @@
 "WAYPOINTS" = "Waypoints";
 
 
-"WELCOME" = "Grazie per aver usato LocationSimulator! Questo software è ancora in versione beta. Si prega di segnalare qualsiasi bug che si trova.";
+"WELCOME_TEXT" = "Grazie per aver usato LocationSimulator! Questo software è ancora in versione beta. Si prega di segnalare qualsiasi bug che si trova.";
 
 
 "WINDOW_MENU" = "Finestra";

@@ -721,7 +721,7 @@
 "WAYPOINTS" = "Wegpunkte";
 
 
-"WELCOME" = "Danke, dass du LocationSimulator verwendest!\nBei dieser Software handelt es sich um Beta Software.\nBitte melde jeden Fehler den du findest.\n\nWenn dir diese Software gefällt, lass doch vielleicht eine kleine Spende da um die weitere Entwicklung zu unterstützen.";
+"WELCOME_TEXT" = "Danke, dass du LocationSimulator verwendest!\nBei dieser Software handelt es sich um Beta Software.\nBitte melde jeden Fehler den du findest.\n\nWenn dir diese Software gefällt, lass doch vielleicht eine kleine Spende da um die weitere Entwicklung zu unterstützen.";
 
 
 "WINDOW_MENU" = "Fenster";
@@ -806,3 +806,33 @@
 
 
 "DEVDISK_UPDATE_DESC" = "Aktualisiere DeveloperDiskImage Downloads";
+
+
+"WELCOME" = "Willkommen";
+
+
+"ONBOARD_SIDEBAR_HEADER" = "Wähle dein Gerät aus";
+
+
+"ONBOARD_SIDEBAR_MESSAGE" = "Wähle dein Gerät in der Seitenleiste aus und fange an deinen Standort zu fälschen.";
+
+
+"ONBOARD_MAP_HEADER" = "Fälsche deinen Standort";
+
+
+"ONBOARD_MAP_MESSAGE" = "Klicke lange auf die Karte um einen Standort zu setzten. Klicke erneut lange auf einen anderen Standort um dorthin zu teleportieren oder zu navigieren.";
+
+
+"ONBOARD_TOOLBAR_HEADER" = "Passe die Symbolleiste an";
+
+
+"ONBOARD_TOOLBAR_MESSAGE" = "Du kannst die Symbolleiste anpassen um weitere Funktionen zu finden, wie bspw. einen Geschwindigkeitsregler.";
+
+
+"ONBOARD_FINISH_HEADER" = "Es kann losgehen !";
+
+
+"ONBOARD_FINISH_MESSAGE" = "Du kannst jetzt LocationSimulator verwenden. Falls du die Software magst, spende doch vielleicht etwas :)";
+
+
+"LETS_GO" = "Auf Geht's!";

@@ -717,7 +717,7 @@
 "WAYPOINTS" = "Vägpunkter";
 
 
-"WELCOME" = "Tack för att du använder LocationSimulator!\n\nDen här mjukvaran är fortfarande i beta. Vänligen rapportera all eventuella buggar du stöter på.";
+"WELCOME_TEXT" = "Tack för att du använder LocationSimulator!\n\nDen här mjukvaran är fortfarande i beta. Vänligen rapportera all eventuella buggar du stöter på.";
 
 
 "WINDOW_MENU" = "Fönster";

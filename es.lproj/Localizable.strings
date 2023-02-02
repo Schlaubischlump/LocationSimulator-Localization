@@ -610,7 +610,7 @@
 "WAYPOINTS" = "Puntos de ruta";
 
 
-"WELCOME" = "Gracias por usar LocationSimulator !\n\nEste software sigue en Beta. Ayudenos a reportar los Bugs.";
+"WELCOME_TEXT" = "Gracias por usar LocationSimulator !\n\nEste software sigue en Beta. Ayudenos a reportar los Bugs.";
 
 
 "WINDOW_MENU" = "Ventana";

@@ -710,7 +710,7 @@
 "WAYPOINTS" = "Waypoints";
 
 
-"WELCOME" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
+"WELCOME_TEXT" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
 
 
 "WINDOW_MENU" = "Window";

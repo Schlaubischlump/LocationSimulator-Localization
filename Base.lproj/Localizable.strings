@@ -722,7 +722,7 @@
 "WAYPOINTS" = "Waypoints";
 
 
-"WELCOME" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
+"WELCOME_TEXT" = "Thanks for using LocationSimulator !\nThis software is still in beta. Please report any bugs you find.\n\nIf you like the software, please consider making a donation to support further development.";
 
 
 "WINDOW_MENU" = "Window";
@@ -813,3 +813,33 @@
 
 
 "OF" = "of";
+
+
+"WELCOME" = "Welcome";
+
+
+"ONBOARD_SIDEBAR_HEADER" = "Select Your Device";
+
+
+"ONBOARD_SIDEBAR_MESSAGE" = "Select your device in the sidbar to start faking your location.";
+
+
+"ONBOARD_MAP_HEADER" = "Fake Your Location";
+
+
+"ONBOARD_MAP_MESSAGE" = "Long click on the map to fake your current location. Long click on another location to teleport or navigate to the new destination.";
+
+
+"ONBOARD_TOOLBAR_HEADER" = "Customize The Toolbar";
+
+
+"ONBOARD_TOOLBAR_MESSAGE" = "You can customize the toolbar to find additional features. For example, you can add a speed slider or an autoreverse button.";
+
+
+"ONBOARD_FINISH_HEADER" = "You Are Ready To Go !";
+
+
+"ONBOARD_FINISH_MESSAGE" = "You can now start using LocationSimulator. If you like it, please consider a donation :)";
+
+
+"LETS_GO" = "Let's go!";
