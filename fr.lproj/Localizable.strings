@@ -2,7 +2,7 @@
 "ABOUT_MENUITEM" = "À propos de LocationSimulator";
 
 
-"ADD" = "";
+"ADD" = "Ajouter";
 
 
 "ALIGN_LEFT_MENUITEM" = "Aligner à gauche";
@@ -11,19 +11,26 @@
 "ALIGN_RIGHT_MENUITEM" = "Aligner à droite";
 
 
-"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "";
+"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "Désactiver cette option pour seulement accepter les appareils USB.";
 
 
-"ALLOW_NETWORK_DEVICES_SETTING" = "";
+"ALLOW_NETWORK_DEVICES_SETTING" = "Accepter les périphériques réseaux";
 
 
 "APP_HELP_MENUITEM" = "Aide LocationSimulator";
 
 
-"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "";
+"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "Autofocus la localisation";
 
 
-"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "";
+"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Autofocus l'emplacement ";
+
+
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Autoreverse";
+
+
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Toggle Autoreverse";
+
 
 "BASELINE_MENU" = "Ligne de base";
 
@@ -40,7 +47,7 @@
 "BRING_ALL_TO_FRONT_MENUITEM" = "Tout ramener au premier plan";
 
 
-"CANCEL" = "";
+"CANCEL" = "Annuler";
 
 
 "CAPITALIZE_MENUITEM" = "Mettre la première lettre en majuscule";
@@ -49,10 +56,13 @@
 "CENTER_MENUITEM" = "Centrer";
 
 
-"CHANGING_SUPPORT_DIRECTORY_FAILED" = "";
+"CHANGE_SPEED" = "Changer la vitesse";
 
 
-"CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "";
+"CHANGING_SUPPORT_DIRECTORY_FAILED" = "Échec de la modification du répertoire d’assistance";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "Impossible de changer le répertoire de support.";
 
 
 "CHECK_DOCUMENT_NOW_MENUITEM" = "Vérifier le document maintenant";
@@ -63,15 +73,17 @@
 
 "CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "Vérifier l’orthographe lors de la saisie";
 
-"CHOOSE" = "";
+
+"CHOOSE" = "Choisir";
 
 
-"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "";
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Choisir";
 
 
-"CHOOSE_DEVELOPER_DISK_IMAGE_PATH_TITLE" = "";
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH_TITLE" = "Sélectionner le répertoire de soutien";
 
-"CHOOSE_GPX_FILE" = "";
+
+"CHOOSE_GPX_FILE" = "Choisir un fichier .gpx";
 
 
 "CLEAR_MENU_MENUITEM" = "Effacer le menu";
@@ -80,16 +92,19 @@
 "CLOSE_MENUITEM" = "Fermer";
 
 
-"CONFIRM_TELEPORT" = "";
+"CONFIRM_TELEPORT" = "Confirmer la téléportation";
 
 
-"CONFIRM_TELEPORTATION_MSG_SETTING" = "";
+"CONFIRM_TELEPORTATION_MSG_SETTING" = "Toujours demander avant la téléportation.";
 
 
-"CONFIRM_TELEPORTATION_SETTING" = "";
+"CONFIRM_TELEPORTATION_SETTING" = "Confirmer la téléportation";
 
 
-"CONFIRM_TELEPORT_MSG" = "";
+"CONFIRM_TELEPORT_MSG" = "Tu veux vraiment te téléporter ?";
+
+
+"COPY_BUTTON" = "Copier";
 
 
 "COPY_MENUITEM" = "Copier";
@@ -104,121 +119,136 @@
 "CORRECT_SPELLING_AUTOMATICALLY_MENUITEM" = "Corriger l’orthographe automatiquement";
 
 
-"CREATE_LOG_FAILED" = "";
+"CREATE_LOG_FAILED" = "Échec de génération des logs";
 
 
-"CREATE_LOG_FAILED_MSG" = "";
+"CREATE_LOG_FAILED_MSG" = "Impossible d’exporter les données du journal. Veuillez actualiser les logs et réessayer.";
 
 
-"CURRENT_LOCATION" = "";
+"CURRENT_LOCATION" = "Emplacement actuel";
 
 
-"CUSTOMIZE_TOOLBAR_MENUITEM" = "";
+"CUSTOMIZE_TOOLBAR_MENUITEM" = "Personnaliser la barre d’outils…";
 
 
-"CUSTOM_DEVELOPER_DISK_IMAGE" = "";
+"CUSTOM_DEVELOPER_DISK_IMAGE" = "Activer le répertoire de soutien personnalisé";
 
 
-"CUSTOM_DEVELOPER_DISK_IMAGE_DESCRIPTION" = "";
+"CUSTOM_DEVELOPER_DISK_IMAGE_DESCRIPTION" = "L’activation de cette option permet de télécharger les DeveloperDiskImages dans un répertoire de votre choix.";
 
 
 "CUT_MENUITEM" = "Couper";
 
 
-"CYCLE_MENUITEM" = "";
+"CYCLE_MENUITEM" = "Vélo";
 
 
 "DATA_DETECTORS_MENUITEM" = "Détection de données";
 
 
-"DEFAULT_MENUITEM" = "";
+"DEFAULT_MENUITEM" = "	Défaut";
 
 
-"DELETE_LOG_FAILED" = "";
+"DELETE_LOG_FAILED" = "Échec de suppression des logs";
 
 
-"DELETE_LOG_FAILED_MSG" = "";
+"DELETE_LOG_FAILED_MSG" = "Impossible de supprimer les fichiers de log. Veuillez réessayer.";
 
 
-"DELETE_LOG_TOOLBARITEM" = "";
+"DELETE_LOG_TOOLBARITEM" = "Effacer";
 
 
-"DELETE_LOG_TOOLBARITEM_TOOLTIP" = "";
+"DELETE_LOG_TOOLBARITEM_TOOLTIP" = "Effacer les logs";
 
 
 "DELETE_MENUITEM" = "Supprimer";
 
 
-"DESTINATION" = "";
+"DESTINATION" = "Destination";
 
 
-"DEVDISK_BACKUP_FAILED_ERROR_MSG" = "";
+"DEVDISK_BACKUP_FAILED_ERROR_MSG" = "Impossible de sauvegarder les fichiers DeveloperDiskImage existants.";
 
 
-"DEVDISK_DELETE_FAILED_ERROR" = "";
+"DEVDISK_DELETE_FAILED_ERROR" = "Echec de suppression d’image DeveloperDiskImage";
 
 
-"DEVDISK_DELETE_FAILED_ERROR_MSG" = "";
+"DEVDISK_DELETE_FAILED_ERROR_MSG" = "Impossible de supprimer l’image DeveloperDiskImage sélectionnée. Essayez de la supprimer manuellement à l’aide du finder.";
 
 
-"DEVDISK_DOWNLOAD_DESC" = "";
+"DEVDISK_DOWNLOAD_DESC" = "Téléchargement de DeveloperDiskImage.dmg";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR" = "";
+"DEVDISK_DOWNLOAD_FAILED_ERROR" = "Échec du téléchargement de DeveloperDiskImage";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "";
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Échec de téléchargement de DeveloperDiskImage.dmg ou DeveloperDiskImage.dmg.signature";
 
 
-"DEVDISK_NOT_FOUND" = "";
+"DEVDISK_NOT_FOUND" = "Fichiers DeveloperDiskImage introuvables";
 
 
-"DEVDISK_REFRESH_FAILED_ERROR" = "";
+"DEVDISK_REFRESH_FAILED_ERROR" = "DeveloperDiskImage refresh failed";
 
 
-"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "";
+"DEVDISK_UPDATE_DESC" = "Mise à jour des téléchargements DeveloperDiskImage";
 
 
-"DEVICE_HEADER" = "";
+"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "DiskImages";
 
 
-"DEVSIGN_DOWNLOAD_DESC" = "";
+"DEVICE_HEADER" = "Appareils";
 
 
-"DRIVE_MENUITEM" = "";
+"DEVMODE_ERROR" = "Mode développeur non activé";
+
+
+"DEVMODE_ERROR_MSG" = "Pour activer le mode développeur, accédez à Paramètres > Confidentialité et sécurité sur votre appareil iOS. Faites défiler la page jusqu’à l’élément de liste du mode développeur et naviguez-y. Activez le mode Développeur.";
+
+
+"DEVSIGN_DOWNLOAD_DESC" = "Téléchargement de DeveloperDiskImage.dmg.signature";
+
+
+"DONATE_BUTTON" = "Faites un don";
+
+
+"DONATE_MENUITEM" = "Faites un don…";
+
+
+"DRIVE_MENUITEM" = "Conduire";
 
 
 "EDIT_MENU" = "Édition";
 
 
-"EMPTY_ROUTE" = "";
+"EMPTY_ROUTE" = "Itinéraire vide";
 
 
-"EMPTY_ROUTE_MSG" = "";
+"EMPTY_ROUTE_MSG" = "Pas assez de coordonnées pour démarrer la navigation.";
 
 
-"ENTER_FULL_SCREEN_MENUITEM" = "";
+"ENTER_FULL_SCREEN_MENUITEM" = "Basculer vers le plein écran";
 
 
-"ERROR_OPEN_GPX" = "";
+"ERROR_OPEN_GPX" = "Erreur d’ouverture du fichier GPX";
 
 
-"ERROR_OPEN_GPX_MSG" = "";
+"ERROR_OPEN_GPX_MSG" = "Impossible d’ouvrir le fichier GPX sélectionné.";
 
 
-"ERROR_PARSE_GPX" = "";
+"ERROR_PARSE_GPX" = "Erreur d’analyse du fichier GPX";
 
 
-"ERROR_PARSE_GPX_MSG" = "";
+"ERROR_PARSE_GPX_MSG" = "Impossible d’analyser le fichier GPX sélectionné. Le fichier est peut-être endommagé ou mal formaté.";
 
 
-"EXPORT_LOG_TITLE" = "";
+"EXPORT_LOG_TITLE" = "Exporter les logs de LocationSimulator";
 
 
-"EXPORT_TOOLBARITEM" = "";
+"EXPORT_TOOLBARITEM" = "Exporter";
 
 
-"EXPORT_TOOLBARITEM_TOOLTIP" = "";
+"EXPORT_TOOLBARITEM_TOOLTIP" = "Exporter les logs";
 
 
 "FILE_MENU" = "Fichier";
@@ -254,19 +284,19 @@
 "FORMAT_MENUITEM" = "Format";
 
 
-"GENERAL_TITEL_SETTING" = "";
+"GENERAL_TITEL_SETTING" = "Général";
 
 
-"GET_LOCATION_ERROR" = "";
+"GET_LOCATION_ERROR" = "Impossible d’obtenir l’emplacement";
 
 
-"GET_LOCATION_ERROR_MSG" = "";
+"GET_LOCATION_ERROR_MSG" = "Impossible d’obtenir l’emplacement actuel. Avez-vous autorisé LocationSimulator à accéder à l’emplacement de ce mac?";
 
 
-"GPX_SELECTION" = "";
+"GPX_SELECTION" = "Choisir des coordonnées";
 
 
-"GPX_SELECTION_MSG" = "";
+"GPX_SELECTION_MSG" = "Choisissez une piste, un segment de piste, un itinéraire ou les points de cheminement pour commencer la navigation.";
 
 
 "HELP_MENU" = "Aide";
@@ -281,10 +311,13 @@
 "HIDE_OTHERS_MENUITEM" = "Masquer les autres";
 
 
-"IMAGE_FILE" = "";
+"HYBRID_MENU_ITEM" = "Hybride";
 
 
-"INFO_TITLE_SETTING" = "";
+"IMAGE_FILE" = "Image";
+
+
+"INFO_TITLE_SETTING" = "Info";
 
 
 "ITALIC_MENUITEM" = "Italique";
@@ -302,16 +335,19 @@
 "KERN_MENUITEM" = "Crénage";
 
 
-"LAT" = "";
+"LAT" = "Lat";
 
 
-"LEFT_TO_RIGHT_MENUITEM" = "";
+"LEFT_TO_RIGHT_MENUITEM" = "    gauche vers la droite";
 
 
-"LEVEL" = "";
+"LETS_GO" = "Allons-y!";
 
 
-"LICENSE_TITLE_SETTING" = "";
+"LEVEL" = "Niveau";
+
+
+"LICENSE_TITLE_SETTING" = "License";
 
 
 "LIGATURES_MENU" = "Ligatures";
@@ -320,28 +356,28 @@
 "LIGATURES_MENUITEM" = "Ligatures";
 
 
-"LINE_NUMBER" = "";
+"LINE_NUMBER" = "Ligne";
 
 
-"LOCATION_CHANGE_ERROR" = "";
+"LOCATION_CHANGE_ERROR" = "Erreur de changement d’emplacement";
 
 
-"LOCATION_CHANGE_ERROR_MSG" = "";
+"LOCATION_CHANGE_ERROR_MSG" = "Impossible de changer l’emplacement. Si vous utilisez iOS 16 ou une version ultérieure, assurez-vous que le mode développeur est activé.";
 
 
-"LOCATION_RESET_ERROR_MSG" = "";
+"LOCATION_RESET_ERROR_MSG" = "Impossible de réinitialiser l’emplacement";
 
 
-"LOCATION_SERVICE_DISABLED" = "";
+"LOCATION_SERVICE_DISABLED" = "Activer les services de localisation";
 
 
-"LOCATION_SERVICE_DISABLED_MSG" = "";
+"LOCATION_SERVICE_DISABLED_MSG" = "Les services de localisation semblent désactivés. Veuillez activer les services de localisation dans les préférences du système.";
 
 
-"LOG_TITLE" = "";
+"LOG_TITLE" = "Log";
 
 
-"LONG" = "";
+"LONG" = "Long";
 
 
 "LOOSEN_MENUITEM" = "Desserrer";
@@ -350,16 +386,16 @@
 "LOWER_MENUITEM" = "Abaisser";
 
 
-"MAC_LOCATION_MENUITEM" = "";
+"MAC_LOCATION_MENUITEM" = "Utiliser l’emplacement Mac";
 
 
-"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "";
+"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "Emplacement actuel";
 
 
-"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "";
+"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Définir l’emplacement du Mac à l’emplacement actuel";
 
 
-"MAIN_MENU" = "";
+"MAIN_MENU" = "Menu principal";
 
 
 "MAKE_LOWER_CASE_MENUITEM" = "Mettre en minuscules";
@@ -368,55 +404,109 @@
 "MAKE_UPPER_CASE_MENUITEM" = "Mettre en majuscules";
 
 
-"MESSAGE" = "";
+"MESSAGE" = "Message";
 
 
 "MINIMIZE_MENUITEM" = "Placer dans le Dock";
 
 
-"MOUNT_ERROR" = "";
+"MOUNT_ERROR" = "Impossible de monter le fichier DeveloperDiskImage.dmg";
 
 
-"MOUNT_ERROR_MSG" = "";
+"MOUNT_ERROR_MSG" = "Impossible de monter le DeveloperDiskImage pour cet appareil. La spoofing de localisation ne fonctionnera pas.\nVotre appareil est-il verrouillé ?";
 
 
-"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "";
+"MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Comportement de contrôle des mouvements";
 
 
-"MOVE_DOWN_MENUITEM" = "";
+"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "Move Types";
 
 
-"MOVE_UP_MENUITEM" = "";
+"MOVE_DOWN_MENUITEM" = "Descendre";
 
 
-"NAVIGATE" = "";
+"MOVE_LEFT_MENUITEM" = "Aller à gauche";
 
 
-"NAVIGATION_MENU" = "";
+"MOVE_RIGHT_MENUITEM" = "Aller à droite";
 
 
-"NETWORK_TITEL_SETTING" = "";
+"MOVE_UP_MENUITEM" = "Monter";
 
 
-"NO_DEVICE" = "";
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Activer les mouvements aléatoires si la position GPS n’a pas changé dans un certain laps de temps.";
 
 
-"NO_DEVICE_ERROR" = "";
+"MOVE_WHEN_STANDING_STILL_SETTING" = "Se déplacer en restant immobile";
 
 
-"NO_DEVICE_MSG" = "";
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Utilisez les touches fléchées pour vous déplacer à gauche, à droite, vers le haut ou vers le bas.";
 
 
-"OK" = "";
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Naturel";
 
 
-"OPEN_GPX_FILE_MENUITEM" = "";
+"NAVIGATE" = "Naviguer";
 
 
-"OPEN_PROJECT_PAGE_MENUITEM" = "";
+"NAVIGATION_MENU" = "Navigation";
 
 
-"PAIR_ERROR_MSG" = "";
+"NETWORK_TITEL_SETTING" = "Réseau";
+
+
+"NEW_WINDOW_MENUITEM" = "Nouvelle fenêtre";
+
+
+"NO_DEVICE" = "Aucun appareil sélectionné";
+
+
+"NO_DEVICE_ERROR" = "Aucun appareil trouvé";
+
+
+"NO_DEVICE_MSG" = "Veuillez connecter un appareil et le sélectionner dans la barre latérale pour démarrer.";
+
+
+"OF" = "de";
+
+
+"OK" = "OK";
+
+
+"ONBOARD_FINISH_HEADER" = "Vous êtes prêt à partir!";
+
+
+"ONBOARD_FINISH_MESSAGE" = "Vous pouvez maintenant commencer à utiliser LocationSimulator. Si vous l’aimez, s’il vous plaît envisager un don :)";
+
+
+"ONBOARD_MAP_HEADER" = "Truquer votre emplacement";
+
+
+"ONBOARD_MAP_MESSAGE" = "Cliquez longuement sur la carte pour simuler votre emplacement actuel. Cliquez longuement sur un autre emplacement pour vous téléporter ou naviguer vers la nouvelle destination.";
+
+
+"ONBOARD_SIDEBAR_HEADER" = "Sélectionnez votre appareil";
+
+
+"ONBOARD_SIDEBAR_MESSAGE" = "Sélectionnez votre appareil dans le sidbar pour commencer à simuler votre emplacement.";
+
+
+"ONBOARD_TOOLBAR_HEADER" = "Personnalisez la barre d'outils";
+
+
+"ONBOARD_TOOLBAR_MESSAGE" = "Vous pouvez personnaliser la barre d’outils pour trouver des fonctionnalités supplémentaires. Par exemple, vous pouvez ajouter un curseur de vitesse ou un bouton autoreverse.";
+
+
+"OPEN_BUTTON" = "Ouvrir";
+
+
+"OPEN_GPX_FILE_MENUITEM" = "Ouvrir le fichier GPX…";
+
+
+"OPEN_PROJECT_PAGE_MENUITEM" = "Ouvrir la page du projet";
+
+
+"PAIR_ERROR_MSG" = "Impossible d’établir une connexion à l’appareil. Assurez-vous de faire confiance à cet ordinateur sur votre appareil.";
 
 
 "PARAGRAPH_MENUITEM" = "Paragraphe";
@@ -434,28 +524,28 @@
 "PASTE_STYLE_MENUITEM" = "Coller le style";
 
 
-"PERMISSION_ERROR" = "";
+"PERMISSION_ERROR" = "Erreur de permissions";
 
 
-"PERMISSION_ERROR_MSG" = "";
+"PERMISSION_ERROR_MSG" = "Impossible d’accéder au dossier Application Support.";
 
 
 "PREFERENCES_MENUITEM" = "Préférences…";
 
 
-"PREFER_NETWORK_DEVICES_MSG_SETTING" = "";
+"PREFER_NETWORK_DEVICES_MSG_SETTING" = "Utilisez toujours la connexion réseau même si un périphérique est connecté par USB.";
 
 
-"PREFER_NETWORK_DEVICES_SETTING" = "";
+"PREFER_NETWORK_DEVICES_SETTING" = "Préférez les périphériques réseau";
 
 
-"PRINT_TOOLBARITEM_TOOLTIP" = "";
+"PRINT_TOOLBARITEM_TOOLTIP" = "Imprimer";
 
 
-"PRODUCT_INFO_ERROR" = "";
+"PRODUCT_INFO_ERROR" = "Impossible d’obtenir les renseignements sur le produit";
 
 
-"PROGRESS" = "";
+"PROGRESS" = "Télécharger les fichiers de support iOS";
 
 
 "QUIT_APP_MENUITEM" = "Quitter LocationSimulator";
@@ -464,55 +554,58 @@
 "RAISE_MENUITEM" = "Élever";
 
 
-"RECENT_LOCATIONS_MENU" = "";
+"RECENT_LOCATIONS_MENU" = "Positions récentes";
 
 
-"RECENT_LOCATIONS_MENUITEM" = "";
+"RECENT_LOCATIONS_MENUITEM" = "Positions récentes";
 
 
 "REDO_MENUITEM" = "Rétablir";
 
 
-"REFRESH_TOOLBARITEM" = "";
+"REFRESH_TOOLBARITEM" = "Rafraîchir";
 
 
-"REFRESH_TOOLBARITEM_TOOLTIP" = "";
+"REFRESH_TOOLBARITEM_TOOLTIP" = "Rafraîchir les logs";
 
 
-"REPORT_A_BUG_MENUITEM" = "";
+"REPORT_A_BUG_MENUITEM" = "Signaler un bug";
 
 
-"RESET_LOCATION_MENUITEM" = "";
+"RESET_LOCATION_MENUITEM" = "Réinitialiser l’emplacement";
 
 
-"RESET_TOOLBARITEM_PALETTELABEL" = "";
+"RESET_TOOLBARITEM_PALETTELABEL" = "Reset";
 
 
-"RESET_TOOLBARITEM_TOOLTIP" = "";
+"RESET_TOOLBARITEM_TOOLTIP" = "Arrêter de simuler l’emplacement de l’appareil";
 
 
-"RIGHT_TO_LEFT_MENUITEM" = "";
+"RIGHT_TO_LEFT_MENUITEM" = "	Droite à gauche";
 
 
-"ROTATE_CLOCKWISE_MENUITEM" = "";
+"ROTATE_CLOCKWISE_MENUITEM" = "Tourner dans le sens horaire";
 
 
-"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "";
+"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "Tourner dans le sens antihoraire";
 
 
-"ROUTE" = "";
+"ROUTE" = "Route";
 
 
-"SAVE_LOG_FAILED" = "";
+"SATELLITE_MENU_ITEM" = "Satellite";
 
 
-"SAVE_LOG_FAILED_MSG" = "";
+"SAVE_LOG_FAILED" = "Échec de l’enregistrement du journal";
 
 
-"SEARCH_PLACEHOLDER" = "";
+"SAVE_LOG_FAILED_MSG" = "Impossible d’enregistrer le fichier journal. Veuillez vous assurer que votre utilisateur a la permission d’écrire dans ce répertoire.";
 
 
-"SEARCH_TOOLBARITEM_PALETTELABEL" = "";
+"SEARCH_PLACEHOLDER" = "Chercher";
+
+
+"SEARCH_TOOLBARITEM_PALETTELABEL" = "Chercher";
 
 
 "SELECTION_MENUITEM" = "Sélection";
@@ -524,7 +617,10 @@
 "SERVICES_MENUITEM" = "Services";
 
 
-"SET_LOCATION_MENUITEM" = "";
+"SET_LOCATION_MENUITEM" = "Définir l’emplacement…";
+
+
+"SET_SPEED_MENUITEM" = "Définir la vitesse";
 
 
 "SHOW_ALL_MENUITEM" = "Tout afficher";
@@ -533,25 +629,25 @@
 "SHOW_COLORS_MENUITEM" = "Afficher les couleurs";
 
 
-"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "";
+"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "Afficher le panneau couleur";
 
 
 "SHOW_FONTS_MENUITEM" = "Afficher les polices";
 
 
-"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "";
+"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "Afficher le panneau de police";
 
 
-"SHOW_IN_FINDER" = "";
+"SHOW_IN_FINDER" = "Afficher dans le Finder";
 
 
-"SHOW_LOG" = "";
+"SHOW_LOG" = "Log...";
 
 
 "SHOW_RULER_MENUITEM" = "Afficher la règle";
 
 
-"SHOW_SIDEBAR_MENUITEM" = "";
+"SHOW_SIDEBAR_MENUITEM" = "Toggle Sidebar";
 
 
 "SHOW_SPELLING_AND_GRAMMAR_MENUITEM" = "Afficher l’orthographe et la grammaire";
@@ -560,13 +656,13 @@
 "SHOW_SUBSTITUTIONS_MENUITEM" = "Afficher les substitutions";
 
 
-"SHOW_TOOLBAR_MENUITEM" = "";
+"SHOW_TOOLBAR_MENUITEM" = "Toggle Toolbar";
 
 
-"SIGNATURE_FILE" = "";
+"SIGNATURE_FILE" = "Signature";
 
 
-"SIMULATOR_HEADER" = "";
+"SIMULATOR_HEADER" = "Simulators";
 
 
 "SMALLER_MENUITEM" = "Plus petit";
@@ -590,16 +686,25 @@
 "SPEECH_MENUITEM" = "Parole";
 
 
+"SPEED" = "Vitesse";
+
+
+"SPEED_TOOLBARITEM_PALETTELABEL" = "Vitesse";
+
+
 "SPELLING_GRAMMAR_MENU" = "Orthographe et grammaire";
 
 
 "SPELLING_GRAMMAR_MENUITEM" = "Orthographe et grammaire";
 
 
+"STANDARD_MENU_ITEM" = "Explorer";
+
+
 "START_SPEAKING_MENUITEM" = "Commencer la lecture";
 
 
-"STOP_NAVIGATION_MENUITEM" = "";
+"STOP_NAVIGATION_MENUITEM" = "Arrêter la navigation";
 
 
 "STOP_SPEAKING_MENUITEM" = "Arrêter la lecture";
@@ -617,13 +722,13 @@
 "SUPERSCRIPT_MENUITEM" = "Exposant";
 
 
-"TELEPORT" = "";
+"TELEPORT" = "Téléporter";
 
 
-"TELEPORT_OR_NAVIGATE_GPX_MSG" = "";
+"TELEPORT_OR_NAVIGATE_GPX_MSG" = "Voulez-vous naviguer ou vous téléporter à l’emplacement de départ de cette route?";
 
 
-"TELEPORT_OR_NAVIGATE_MSG" = "";
+"TELEPORT_OR_NAVIGATE_MSG" = "Voulez-vous vous téléporter ou naviguer vers la destination?";
 
 
 "TEXT_MENU" = "Texte";
@@ -635,25 +740,31 @@
 "TEXT_REPLACEMENT_MENUITEM" = "Remplacement de texte";
 
 
-"THREAD" = "";
+"THREAD" = "Thread";
 
 
 "TIGHTEN_MENUITEM" = "Resserrer";
 
 
-"TIME" = "";
+"TIME" = "Temps";
 
 
-"TOGGLE_AUTOMOVE_MENUITEM" = "";
+"TOGGLE_AUTOMOVE_MENUITEM" = "Toggle Automove";
 
 
-"TOTAL_DISTANCE" = "";
+"TOTAL_DISTANCE" = "Distance totale: %.3fkm";
 
 
-"TRACK" = "";
+"TRACK" = "Track";
 
 
-"TRACK_SEGMENT" = "";
+"TRACK_SEGMENT" = "Segment";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Utilisez les flèches droite et gauche pour changer le cap dans le sens horaire ou antihoraire. Utilisez les touches haut et bas pour se déplacer.";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Traditionnel";
 
 
 "TRANSFORMATIONS_MENU" = "Transformations";
@@ -668,10 +779,10 @@
 "UNDO_MENUITEM" = "Annuler";
 
 
-"UNKNOWN_ERROR" = "";
+"UNKNOWN_ERROR" = "Erreur inconnue";
 
 
-"UNKNOWN_ERROR_MSG" = "";
+"UNKNOWN_ERROR_MSG" = "Une erreur inconnue est survenue. Veuillez déconnecter votre appareil et réessayer.";
 
 
 "USE_ALL_MENUITEM" = "Toutes";
@@ -680,13 +791,19 @@
 "USE_DEFAULT_MENUITEM" = "Valeur par défaut";
 
 
-"USE_NONE_MENUITEM" = "";
+"USE_NONE_MENUITEM" = "Utilisez aucun";
 
 
 "USE_SELECTION_FOR_FIND_MENUITEM" = "Rechercher la sélection";
 
 
-"VERSION" = "";
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "Varier la vitesse des mouvements.";
+
+
+"VARY_MOVEMENT_SPEED_SETTING" = "Varier la vitesse de déplacement";
+
+
+"VERSION" = "Version";
 
 
 "VIEW_MENU" = "Présentation";
@@ -695,16 +812,19 @@
 "VIEW_MENUITEM" = "Présentation";
 
 
-"WALK_MENUITEM" = "";
+"WALK_MENUITEM" = "Marcher";
 
 
-"WARNING_TRIANGLE_TOOLTIP" = "";
+"WARNING_TRIANGLE_TOOLTIP" = "Appareil non jumelé";
 
 
-"WAYPOINTS" = "";
+"WAYPOINTS" = "Waypoints";
 
 
-"WELCOME_TEXT" = "";
+"WELCOME" = "Bienvenue";
+
+
+"WELCOME_TEXT" = "Merci d’utiliser LocationSimulator !\nCe logiciel est toujours en version bêta. Veuillez signaler tout bogue que vous trouverez.\n\nSi vous aimez le logiciel, s’il vous plaît envisager de faire un don pour soutenir le développement ultérieur.";
 
 
 "WINDOW_MENU" = "Fenêtre";
@@ -719,22 +839,10 @@
 "WRITING_DIRECTION_MENUITEM" = "Sens de l’écriture";
 
 
-"ZOOM_MENUITEM" = "Réduire/agrandir";
-
-
 "ZOOM_IN_MENUITEM" = "Zoom avant";
 
 
+"ZOOM_MENUITEM" = "Réduire/agrandir";
+
+
 "ZOOM_OUT_MENUITEM" = "Zoom arrière";
-
-
-"HYBRID_MENU_ITEM" = "";
-
-
-"SATELLITE_MENU_ITEM" = "";
-
-
-"STANDARD_MENU_ITEM" = "";
-
-
-"SPEED_TOOLBARITEM_PALETTELABEL" = "";
