@@ -867,3 +867,9 @@
 
 
 "DEVMANIFEST_DOWNLOAD_DESC" = "Downloading BuildManifest.plist";
+
+
+"ADD_DEVELOPER_DISK_IMAGE" = "DeveloperDiskImage";
+
+
+"ADD_PERSONALIZED_DEVELOPER_DISK_IMAGE" = "Personalized DeveloperDiskImage";
