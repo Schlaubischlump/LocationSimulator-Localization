@@ -176,7 +176,7 @@
 "DEVDISK_DELETE_FAILED_ERROR_MSG" = "Impossible de supprimer l’image DeveloperDiskImage sélectionnée. Essayez de la supprimer manuellement à l’aide du finder.";
 
 
-"DEVDISK_DOWNLOAD_DESC" = "Téléchargement de DeveloperDiskImage.dmg";
+"DEVDISK_DOWNLOAD_DESC" = "Télécharge DeveloperDiskImage.dmg";
 
 
 "DEVDISK_DOWNLOAD_FAILED_ERROR" = "Échec du téléchargement de DeveloperDiskImage";
@@ -206,7 +206,7 @@
 "DEVMODE_ERROR_MSG" = "Pour activer le mode développeur, accédez à Paramètres > Confidentialité et sécurité sur votre appareil iOS. Faites défiler la page jusqu’à l’élément de liste du mode développeur et naviguez-y. Activez le mode Développeur.";
 
 
-"DEVSIGN_DOWNLOAD_DESC" = "Téléchargement de DeveloperDiskImage.dmg.signature";
+"DEVSIGN_DOWNLOAD_DESC" = "Télécharge DeveloperDiskImage.dmg.signature";
 
 
 "DONATE_BUTTON" = "Faites un don";
@@ -846,3 +846,27 @@
 
 
 "ZOOM_OUT_MENUITEM" = "Zoom arrière";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TITLE" = "Sélectionner DeveloperDiskImage.dmg";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_SIGNATURE_TITLE" = "Sélectionner DeveloperDiskImage.dmg.signature";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TRUSTCACHE_TITLE" = "Sélectionner DeveloperDiskImage.dmg.trustcache";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_BUILD_MANIFEST_TITLE" = "Sélectionner BuildManifest.plist";
+
+
+"TRUSTCACHE_FILE" = "Trustcache";
+
+
+"BUILD_MANIFEST_FILE" = "BuildManifest";
+
+
+"DEVTRUST_DOWNLOAD_DESC" = "Télécharge DeveloperDiskImage.dmg.trustcache";
+
+
+"DEVMANIFEST_DOWNLOAD_DESC" = "Télécharge BuildManifest.plist";

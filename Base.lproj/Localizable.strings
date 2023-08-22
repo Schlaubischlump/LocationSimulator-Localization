@@ -170,7 +170,7 @@
 "DEVDISK_DOWNLOAD_FAILED_ERROR" = "DeveloperDiskImage download failed";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Failed to download DeveloperDiskImage.dmg or DeveloperDiskImage.dmg.signature";
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Failed to download DeveloperDiskImage support files";
 
 
 "DEVDISK_NOT_FOUND" = "DeveloperDiskImage files not found";
@@ -843,3 +843,27 @@
 
 
 "LETS_GO" = "Let's go!";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TITLE" = "Select DeveloperDiskImage.dmg";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_SIGNATURE_TITLE" = "Select DeveloperDiskImage.dmg.signature";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TRUSTCACHE_TITLE" = "Select DeveloperDiskImage.dmg.trustcache";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_BUILD_MANIFEST_TITLE" = "Select BuildManifest.plist";
+
+
+"TRUSTCACHE_FILE" = "Trustcache";
+
+
+"BUILD_MANIFEST_FILE" = "BuildManifest";
+
+
+"DEVTRUST_DOWNLOAD_DESC" = "Downloading DeveloperDiskImage.dmg.trustcache";
+
+
+"DEVMANIFEST_DOWNLOAD_DESC" = "Downloading BuildManifest.plist";

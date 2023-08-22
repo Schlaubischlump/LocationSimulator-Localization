@@ -836,3 +836,27 @@
 
 
 "LETS_GO" = "Auf Geht's!";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TITLE" = "DeveloperDiskImage.dmg auswählen";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_SIGNATURE_TITLE" = "DeveloperDiskImage.dmg.signature auswählen";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TRUSTCACHE_TITLE" = "DeveloperDiskImage.dmg.trustcache auswählen";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_BUILD_MANIFEST_TITLE" = "BuildManifest.plist auswählen";
+
+
+"TRUSTCACHE_FILE" = "Trustcache";
+
+
+"BUILD_MANIFEST_FILE" = "BuildManifest";
+
+
+"DEVTRUST_DOWNLOAD_DESC" = "DeveloperDiskImage.dmg.trustcache herunterladen";
+
+
+"DEVMANIFEST_DOWNLOAD_DESC" = "BuildManifest.plist herunterladen";
