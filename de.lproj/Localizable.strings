@@ -169,7 +169,7 @@
 "DEVDISK_DOWNLOAD_FAILED_ERROR" = "DeveloperDiskImage Download ist fehlgeschlagen";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "DeveloperDiskImage.dmg oder DeveloperDiskImage.dmg.signature konnten nicht heruntergeladen werden.";
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "DeveloperDiskImage Support-Dateien konnten nicht heruntergeladen werden.";
 
 
 "DEVDISK_NOT_FOUND" = "DeveloperDiskImage wurden nicht gefunden";
