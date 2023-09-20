@@ -5,6 +5,11 @@
 /*  */
 "ADD" = "Lägg till";
 
+/*  */
+"ADD_DEVELOPER_DISK_IMAGE" = " Utvecklare Diskbild";
+
+
+
 
 "ALIGN_LEFT_MENUITEM" = "Vänsterjustera";
 
@@ -26,6 +31,12 @@
 
 "AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Autofokusera nuvarande plats";
 
+/*  */
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "Bilomvänd";
+
+/*  */
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "Växla Bilomvänd";
+
 
 "BASELINE_MENU" = "Baslinje";
 
@@ -41,6 +52,9 @@
 
 "BRING_ALL_TO_FRONT_MENUITEM" = "Flytta alla till framkant";
 
+/*  */
+"BUILD_MANIFEST_FILE" = "Bygga Manifestera";
+
 
 "CANCEL" = "Avbryt";
 
@@ -49,6 +63,9 @@
 
 
 "CENTER_MENUITEM" = "Centrera";
+
+/*  */
+"CHANGE_SPEED" = "Ändra hastighet";
 
 
 "CHANGING_SUPPORT_DIRECTORY_FAILED" = "Byte av supportkatalog misslyckades";
@@ -94,6 +111,9 @@
 
 
 "CONFIRM_TELEPORT_MSG" = "Vill du verkligen teleportera?";
+
+/*  */
+"COPY_BUTTON" = "Kopiera";
 
 
 "COPY_MENUITEM" = "Kopiera";
@@ -178,6 +198,9 @@
 
 /*  */
 "DEVDISK_REFRESH_FAILED_ERROR" = "Uppdatering av utvecklarskivavbild misslyckades";
+
+/*  */
+"DEVDISK_UPDATE_DESC" = "Uppdaterar";
 
 
 "DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "Utvecklarskivavbilder";
@@ -600,6 +623,9 @@
 "SPEECH_MENUITEM" = "Tal";
 
 
+"SPEED_TOOLBARITEM_PALETTELABEL" = "Hastighet";
+
+
 "SPELLING_GRAMMAR_MENU" = "Stavning och grammatik";
 
 
@@ -674,6 +700,9 @@
 
 "TRANSFORMATIONS_MENUITEM" = "Transformationer";
 
+/*  */
+"TRUSTCACHE_FILE" = "LITA CACHE";
+
 
 "UNDERLINE_MENUITEM" = "Understryk";
 
@@ -699,6 +728,12 @@
 "USE_SELECTION_FOR_FIND_MENUITEM" = "Använd markering för sökning";
 
 /*  */
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "Variera rörelsehastighetsmeddelandeinställningen";
+
+/*  */
+"VARY_MOVEMENT_SPEED_SETTING" = "Variera rörelsehastighetsinställning";
+
+/*  */
 "VERSION" = "Version";
 
 
@@ -715,6 +750,9 @@
 
 
 "WAYPOINTS" = "Vägpunkter";
+
+/*  */
+"WELCOME" = "Välkommen";
 
 
 "WELCOME_TEXT" = "Tack för att du använder LocationSimulator!\n\nDen här mjukvaran är fortfarande i beta. Vänligen rapportera all eventuella buggar du stöter på.";
@@ -740,5 +778,74 @@
 
 "ZOOM_OUT_MENUITEM" = "Zooma ut";
 
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Traditionell";
 
-"SPEED_TOOLBARITEM_PALETTELABEL" = "Hastighet";
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Använd höger- och vänsterpilarna för att ändra rubriken medurs eller";
+
+"SPEED" = "hastighet";
+
+"SET_SPEED_MENUITEM" = "ställ in hastighet";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TRUSTCACHE_TITLE" = "Välj DeveloperDiskImage.dmg.trustcache";
+
+"SELECT_DEVELOPER_DISK_IMAGE_TITLE" = "Välj DeveloperDiskImage.dmg";
+
+"SELECT_DEVELOPER_DISK_IMAGE_SIGNATURE_TITLE" = "Välj DeveloperDiskImage.dmg.signatur";
+
+"SELECT_DEVELOPER_DISK_IMAGE_BUILD_MANIFEST_TITLE" = "Välj BuildManifest.plist";
+
+"OPEN_BUTTON" = "Öppna";
+
+"ONBOARD_TOOLBAR_MESSAGE" = "Du kan anpassa verktygsfältet för att hitta ytterligare funktioner";
+
+"ONBOARD_TOOLBAR_HEADER" = "Anpassa verktygsfältet";
+
+"ONBOARD_SIDEBAR_MESSAGE" = "Välj din enhet i sidofältet för att börja förfalska din";
+
+"ONBOARD_SIDEBAR_HEADER" = "Välj din enhet";
+
+"ONBOARD_MAP_MESSAGE" = "Klicka länge på kartan för att förfalska din nuvarande plats";
+
+"ONBOARD_MAP_HEADER" = "Fejka din plats";
+
+"ONBOARD_FINISH_MESSAGE" = "Du kan nu börja använda LocationSimulator";
+
+"ONBOARD_FINISH_HEADER" = "Du är redo att gå!";
+
+"OF" = "av";
+
+"NEW_WINDOW_MENUITEM" = "Nytt fönster";
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "Naturlig";
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Använd piltangenterna för att flytta åt vänster, höger, uppåt eller nedåt";
+
+"MOVE_WHEN_STANDING_STILL_SETTING" = "Flytta när du står stilla";
+
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "Aktivera slumpmässiga rörelser om GPS-positionen inte ändrades i en";
+
+"MOVE_RIGHT_MENUITEM" = "Flytta åt höger";
+
+"MOVE_LEFT_MENUITEM" = "Flytta åt vänster";
+
+"MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "Beteende för rörelsekontroll:";
+
+"LETS_GO" = "Kom så går vi!";
+
+"DONATE_MENUITEM" = "Skänka...";
+
+"DONATE_BUTTON" = "Donera";
+
+"DEVTRUST_DOWNLOAD_DESC" = "Laddar ner DeveloperDiskImage.dmg.trustcache";
+
+"DEVMODE_ERROR_MSG" = "För att aktivera utvecklarläget, gå till Inställningar >";
+
+"DEVMODE_ERROR" = "Utvecklarläget är inte aktiverat";
+
+"DEVMANIFEST_DOWNLOAD_DESC" = "Laddar ner BuildManifest.plist";
+
+"ADD_PERSONALIZED_DEVELOPER_DISK_IMAGE" = "Personlig DeveloperDiskImage";
+
+
