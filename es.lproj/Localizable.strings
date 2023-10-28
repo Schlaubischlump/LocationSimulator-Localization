@@ -7,7 +7,7 @@
 "ALIGN_RIGHT_MENUITEM" = "Alinear a la derecha";
 
 
-"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "Desabilite esta opcion para dar permiso solamente a USB.";
+"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "Deshabilite esta opción para dar permiso solamente a dispositivos USB.";
 
 
 "ALLOW_NETWORK_DEVICES_SETTING" = "Permitir dispositvos de la Red";
@@ -16,7 +16,7 @@
 "APP_HELP_MENUITEM" = "Ayuda LocationSimulator";
 
 
-"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "Auto-enfocar Ubicacion";
+"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "Auto-enfocar Ubicación";
 
 
 "AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "Auto-enfocar ubicación actual";
@@ -55,10 +55,10 @@
 "CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "Comprobar ortografía mientras se escribe";
 
 
-"CHOOSE" = "Eligir";
+"CHOOSE" = "Elegir";
 
 
-"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Eligir";
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "Elegir";
 
 
 "CHOOSE_GPX_FILE" = "Elija archivo .gpx";
@@ -97,7 +97,7 @@
 "CURRENT_LOCATION" = "Localización Actual";
 
 
-"CUSTOMIZE_TOOLBAR_MENUITEM" = "Peronsolizar barras de herramiento..";
+"CUSTOMIZE_TOOLBAR_MENUITEM" = "Personalizar barra de herramientas...";
 
 
 "CUT_MENUITEM" = "Cortar";
@@ -109,10 +109,10 @@
 "DATA_DETECTORS_MENUITEM" = "Detectores de datos";
 
 
-"DEFAULT_MENUITEM" = "	Por omisión";
+"DEFAULT_MENUITEM" = "	Por defecto";
 
 
-"DELETE_LOG_TOOLBARITEM" = "";
+"DELETE_LOG_TOOLBARITEM" = "Limpiar";
 
 
 "DELETE_MENUITEM" = "Eliminar";
@@ -124,7 +124,7 @@
 "DEVDISK_DOWNLOAD_DESC" = "Descargando DeveloperDiskImage.dmg";
 
 
-"DEVDISK_DOWNLOAD_FAILED_ERROR" = "Descarga de DeveloperDiskImage fallada";
+"DEVDISK_DOWNLOAD_FAILED_ERROR" = "Descarga de DeveloperDiskImage fallida";
 
 
 "DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "Descarga de DeveloperDiskImage.dmg o DeveloperDiskImage.dmg.signature fallida";
@@ -151,7 +151,7 @@
 "EMPTY_ROUTE" = "Ruta Vacía";
 
 
-"EMPTY_ROUTE_MSG" = "Insuficiente coordenadas para empezar navegación.";
+"EMPTY_ROUTE_MSG" = "Coordenadas insuficientes para empezar navegación.";
 
 
 "ENTER_FULL_SCREEN_MENUITEM" = "Pantalla Completa";
@@ -163,10 +163,10 @@
 "ERROR_OPEN_GPX_MSG" = "No se pudo abrir el archivo GPX seleccionado.";
 
 
-"ERROR_PARSE_GPX" = "Error al parsing GPX File";
+"ERROR_PARSE_GPX" = "Error al analizar el archivo GPX";
 
 
-"ERROR_PARSE_GPX_MSG" = "No se pudo analizar el archivo GPX seleccionado. Este archivo esta posiblemente dañado o formateado incorrectamente.";
+"ERROR_PARSE_GPX_MSG" = "No se pudo analizar el archivo GPX seleccionado. Este archivo posiblemente está dañado o formateado incorrectamente.";
 
 
 "FILE_MENU" = "Archivo";
@@ -208,7 +208,7 @@
 "GET_LOCATION_ERROR" = "No se pudo obtener ubicación";
 
 
-"GET_LOCATION_ERROR_MSG" = "No se pudo obtener su ubicación actual. Has dado LocationSimulator permiso para acceder la ubicacion de este mac?";
+"GET_LOCATION_ERROR_MSG" = "No se pudo obtener su ubicación actual. Has otorgado el permiso a LocationSimulator para acceder la ubicacion de este Mac?";
 
 
 "GPX_SELECTION" = "Elija coordenadas";
@@ -271,10 +271,10 @@
 "LOCATION_RESET_ERROR_MSG" = "No se pudo resetear tu ubicación.";
 
 
-"LOCATION_SERVICE_DISABLED" = "Abilitar servicios de ubicación";
+"LOCATION_SERVICE_DISABLED" = "Habilitar servicios de ubicación";
 
 
-"LOCATION_SERVICE_DISABLED_MSG" = "Servicios de Localización desabilitado. Porfavór active su Ubicación en Preferencias.";
+"LOCATION_SERVICE_DISABLED_MSG" = "Servicios de Localización deshabilitado. Por favor active su Ubicación en Preferencias.";
 
 
 "LONG" = "Long";
@@ -292,7 +292,7 @@
 "MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "Localización Actual";
 
 
-"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Establer ubicación de Mac a la ubicación actual";
+"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "Establecer ubicación de Mac a la ubicación actual";
 
 
 "MAIN_MENU" = "Menú Principal";
@@ -310,7 +310,7 @@
 "MOUNT_ERROR" = "No se pudo montar DeveloperDiskImage.dmg";
 
 
-"MOUNT_ERROR_MSG" = "El DeveloperDiskImage en este dispositivo, no se pudo montar. Cambio de Ubicación no se podrá realizar.\nSe encuentra bloqueado tu dispositivo?";
+"MOUNT_ERROR_MSG" = "El DeveloperDiskImage en este dispositivo, no se pudo montar. El cambio de Ubicación no se podrá realizar.\nSe encuentra bloqueado tu dispositivo?";
 
 
 "MOVETYPES_TOOLBARITEM_PALETTELABEL" = "Mover tipos";
@@ -337,19 +337,19 @@
 "NO_DEVICE_ERROR" = "Dispositivo no encontrado";
 
 
-"NO_DEVICE_MSG" = "Porfavor conecte su dispositivo y seleccionelo en el menú de lado para empezar.";
+"NO_DEVICE_MSG" = "Por favor conecte su dispositivo y selecciónelo en el menú lateral para empezar.";
 
 
 "OK" = "OK";
 
 
-"OPEN_GPX_FILE_MENUITEM" = "Abrir archivo GPX..";
+"OPEN_GPX_FILE_MENUITEM" = "Abrir archivo GPX...";
 
 
 "OPEN_PROJECT_PAGE_MENUITEM" = "Abrir Pagina de Proyectos";
 
 
-"PAIR_ERROR_MSG" = "No se pudo establecer conexión al dispositivo.";
+"PAIR_ERROR_MSG" = "No se pudo establecer una conexión al dispositivo. Asegúrese de confiar en esta computadora desde el dispositivo.";
 
 
 "PARAGRAPH_MENUITEM" = "Párrafo";
@@ -367,10 +367,10 @@
 "PASTE_STYLE_MENUITEM" = "Pegar estilo";
 
 
-"PERMISSION_ERROR" = "Error, Permiso";
+"PERMISSION_ERROR" = "Error de permisos";
 
 
-"PERMISSION_ERROR_MSG" = "No se pudo acceder Application Support folder.";
+"PERMISSION_ERROR_MSG" = "No se pudo acceder a la carpeta Application Support.";
 
 
 "PREFERENCES_MENUITEM" = "Preferencias…";
@@ -397,10 +397,10 @@
 "RAISE_MENUITEM" = "Subir";
 
 
-"RECENT_LOCATIONS_MENU" = "Ubicación recientes";
+"RECENT_LOCATIONS_MENU" = "Ubicaciones recientes";
 
 
-"RECENT_LOCATIONS_MENUITEM" = "Ubicación recientes";
+"RECENT_LOCATIONS_MENUITEM" = "Ubicaciones recientes";
 
 
 "REDO_MENUITEM" = "Rehacer";
@@ -415,7 +415,7 @@
 "RESET_TOOLBARITEM_PALETTELABEL" = "Resetear";
 
 
-"RESET_TOOLBARITEM_TOOLTIP" = "Terminar la falsa localización";
+"RESET_TOOLBARITEM_TOOLTIP" = "Terminar falsificando localización";
 
 
 "RIGHT_TO_LEFT_MENUITEM" = "	De derecha a izquierda";
@@ -466,7 +466,7 @@
 "SHOW_RULER_MENUITEM" = "Mostrar regla";
 
 
-"SHOW_SIDEBAR_MENUITEM" = "Alternar entre el menú de lador";
+"SHOW_SIDEBAR_MENUITEM" = "Alternar el menú lateral";
 
 
 "SHOW_SPELLING_AND_GRAMMAR_MENUITEM" = "Mostrar ortografía y gramática";
@@ -475,10 +475,10 @@
 "SHOW_SUBSTITUTIONS_MENUITEM" = "Mostrar sustituciones";
 
 
-"SHOW_TOOLBAR_MENUITEM" = "Alternar entre barras de herramientas";
+"SHOW_TOOLBAR_MENUITEM" = "Alternar la barra de herramientas";
 
 
-"SIMULATOR_HEADER" = "Simuladoras";
+"SIMULATOR_HEADER" = "Simuladores";
 
 
 "SMALLER_MENUITEM" = "Más pequeño";
@@ -535,7 +535,7 @@
 "TELEPORT_OR_NAVIGATE_GPX_MSG" = "Desea teleportarse o navegar hacia el punto de partida ?";
 
 
-"TELEPORT_OR_NAVIGATE_MSG" = "Desea teleportarse o navegar hacia tu destinación?";
+"TELEPORT_OR_NAVIGATE_MSG" = "Desea teleportarse o navegar hacia su destino?";
 
 
 "TEXT_MENU" = "Texto";
@@ -553,7 +553,7 @@
 "TIGHTEN_MENUITEM" = "Reducir";
 
 
-"TOGGLE_AUTOMOVE_MENUITEM" = "Alternar entre Automove";
+"TOGGLE_AUTOMOVE_MENUITEM" = "Alternar Automove";
 
 
 "TOTAL_DISTANCE" = "Distancia Total: %.3fkm";
@@ -580,16 +580,16 @@
 "UNKNOWN_ERROR" = "Error Desconocido";
 
 
-"UNKNOWN_ERROR_MSG" = "Un errór desconocido ha ocurrido. Porfavór desconecte tu dispositvo y intente otra véz.";
+"UNKNOWN_ERROR_MSG" = "Un error desconocido ha ocurrido. Por favor desconecte tu dispositivo e intente otra vez.";
 
 
 "USE_ALL_MENUITEM" = "Usar todas";
 
 
-"USE_DEFAULT_MENUITEM" = "Valor por omisión";
+"USE_DEFAULT_MENUITEM" = "Valor por defecto";
 
 
-"USE_NONE_MENUITEM" = "Ninguno";
+"USE_NONE_MENUITEM" = "Usar ninguno";
 
 
 "USE_SELECTION_FOR_FIND_MENUITEM" = "Usar selección para buscar";
@@ -610,7 +610,7 @@
 "WAYPOINTS" = "Puntos de ruta";
 
 
-"WELCOME_TEXT" = "Gracias por usar LocationSimulator !\n\nEste software sigue en Beta. Ayudenos a reportar los Bugs.";
+"WELCOME_TEXT" = "Gracias por usar LocationSimulator !\n\nEste software sigue en Beta. Ayúdenos a reportar los Bugs.";
 
 
 "WINDOW_MENU" = "Ventana";
