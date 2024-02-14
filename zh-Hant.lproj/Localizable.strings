@@ -1,0 +1,879 @@
+
+
+"ABOUT_MENUITEM" = "關於LocationSimulator";
+
+
+"ADD" = "新增";
+
+
+"ADD_DEVELOPER_DISK_IMAGE" = "DeveloperDiskImage";
+
+
+"ADD_PERSONALIZED_DEVELOPER_DISK_IMAGE" = "定制 DeveloperDiskImage";
+
+
+"ALIGN_LEFT_MENUITEM" = "向左對齊";
+
+
+"ALIGN_RIGHT_MENUITEM" = "向右對齊";
+
+
+"ALLOW_NETWORK_DEVICES_MSG_SETTING" = "關閉此選項以僅允許USB設備。";
+
+
+"ALLOW_NETWORK_DEVICES_SETTING" = "允許網路設備";
+
+
+"APP_HELP_MENUITEM" = "LocationSimulator 幫助";
+
+
+"AUTOFOCUS_TOOLBARITEM_PALETTELABEL" = "自動聚焦位置";
+
+
+"AUTOFOCUS_TOOLBARITEM_TOOLTIP" = "自動聚焦當前位置";
+
+
+"AUTOREVERSE_TOOLBARITEM_PALETTELABEL" = "自動反向";
+
+
+"AUTOREVERSE_TOOLBARITEM_TOOLTIP" = "切換自動反向";
+
+
+"BASELINE_MENU" = "基準線";
+
+
+"BASELINE_MENUITEM" = "基準線";
+
+
+"BIGGER_MENUITEM" = "放大";
+
+
+"BOLD_MENUITEM" = "粗體";
+
+
+"BRING_ALL_TO_FRONT_MENUITEM" = "將此程式所有視窗移至最前";
+
+
+"BUILD_MANIFEST_FILE" = "建立清單";
+
+
+"CANCEL" = "取消";
+
+
+"CAPITALIZE_MENUITEM" = "大寫";
+
+
+"CENTER_MENUITEM" = "置中";
+
+
+"CHANGE_SPEED" = "變更速度";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED" = "更改支援目錄失敗";
+
+
+"CHANGING_SUPPORT_DIRECTORY_FAILED_MSG" = "無法更改支援目錄。";
+
+
+"CHECK_DOCUMENT_NOW_MENUITEM" = "立即檢查文件";
+
+
+"CHECK_GRAMMAR_WHILE_SPELLING" = "拼字時檢查語法";
+
+
+"CHECK_SPELLING_WHILE_TYPING_MENUITEM" = "打字時檢查拼字";
+
+
+"CHOOSE" = "選擇";
+
+
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH" = "選擇";
+
+
+"CHOOSE_DEVELOPER_DISK_IMAGE_PATH_TITLE" = "選擇支援目錄";
+
+
+"CHOOSE_GPX_FILE" = "選擇.gpx文件";
+
+
+"CLEAR_MENU_MENUITEM" = "清除選單";
+
+
+"CLOSE_MENUITEM" = "關閉";
+
+
+"CONFIRM_TELEPORT" = "確認傳送";
+
+
+"CONFIRM_TELEPORTATION_MSG_SETTING" = "傳送前總是詢問。";
+
+
+"CONFIRM_TELEPORTATION_SETTING" = "確認傳送";
+
+
+"CONFIRM_TELEPORT_MSG" = "確定要傳送嗎？";
+
+
+"COPY_BUTTON" = "複製";
+
+
+"COPY_MENUITEM" = "複製";
+
+
+"COPY_RULER_MENUITEM" = "複製尺規";
+
+
+"COPY_STYLE_MENUITEM" = "複製樣式";
+
+
+"CORRECT_SPELLING_AUTOMATICALLY_MENUITEM" = "自動更正拼字";
+
+
+"CREATE_LOG_FAILED" = "生成失敗日誌";
+
+
+"CREATE_LOG_FAILED_MSG" = "無法導出日誌數據。請更新日誌並重試。";
+
+
+"CURRENT_LOCATION" = "當前位置";
+
+
+"CUSTOMIZE_TOOLBAR_MENUITEM" = "自定義工具條...";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE" = "啟用自定義支援目錄";
+
+
+"CUSTOM_DEVELOPER_DISK_IMAGE_DESCRIPTION" = "啟用此選項將將DeveloperDiskImages下載到您選擇的目錄。";
+
+
+"CUT_MENUITEM" = "剪切";
+
+
+"CYCLE_MENUITEM" = "循環";
+
+
+"DATA_DETECTORS_MENUITEM" = "數據檢測器";
+
+
+"DEFAULT_MENUITEM" = "    默認";
+
+
+"DELETE_LOG_FAILED" = "刪除日誌失敗";
+
+
+"DELETE_LOG_FAILED_MSG" = "無法刪除日誌文件。請重試。";
+
+
+"DELETE_LOG_TOOLBARITEM" = "清除";
+
+
+"DELETE_LOG_TOOLBARITEM_TOOLTIP" = "清除日誌";
+
+
+"DELETE_MENUITEM" = "刪除";
+
+
+"DESTINATION" = "目的地";
+
+
+"DEVDISK_BACKUP_FAILED_ERROR_MSG" = "無法備份現有的DeveloperDiskImage文件。";
+
+
+"DEVDISK_DELETE_FAILED_ERROR" = "刪除DeveloperDiskImage失敗";
+
+
+"DEVDISK_DELETE_FAILED_ERROR_MSG" = "無法刪除選定的DeveloperDiskImage。嘗試使用Finder手動刪除它。";
+
+
+"DEVDISK_DOWNLOAD_DESC" = "下載DeveloperDiskImage.dmg";
+
+
+"DEVDISK_DOWNLOAD_FAILED_ERROR" = "DeveloperDiskImage下載失敗";
+
+
+"DEVDISK_DOWNLOAD_FAILED_ERROR_MSG" = "無法下載DeveloperDiskImage支援文件";
+
+
+"DEVDISK_NOT_FOUND" = "未找到DeveloperDiskImage文件";
+
+
+"DEVDISK_REFRESH_FAILED_ERROR" = "DeveloperDiskImage更新失敗";
+
+
+"DEVDISK_UPDATE_DESC" = "更新DeveloperDiskImage下載";
+
+
+"DEVELOPER_DISK_IMAGES_TITLE_SETTING" = "DiskImages";
+
+
+"DEVICE_HEADER" = "設備";
+
+
+"DEVMANIFEST_DOWNLOAD_DESC" = "下載 BuildManifest.plist";
+
+
+"DEVMODE_ERROR" = "未啟用開發人員模式";
+
+
+"DEVMODE_ERROR_MSG" = "要啟用開發人員模式，請轉到iOS設備上的“設置” >“隱私與安全性”。滾動到開發人員模式列表項，然後進入其中。將開發人員模式開關切換為打開。";
+
+
+"DEVSIGN_DOWNLOAD_DESC" = "下載DeveloperDiskImage.dmg簽名";
+
+
+"DEVTRUST_DOWNLOAD_DESC" = "下載 DeveloperDiskImage.dmg.trustcache";
+
+
+"DONATE_BUTTON" = "捐贈";
+
+
+"DONATE_MENUITEM" = "捐贈…";
+
+
+"DRIVE_MENUITEM" = "駕駛";
+
+
+"EDIT_MENU" = "編輯";
+
+
+"EMPTY_ROUTE" = "沒有路線";
+
+
+"EMPTY_ROUTE_MSG" = "可用的坐標不足以開始導航。";
+
+
+"ENTER_FULL_SCREEN_MENUITEM" = "切換至全螢幕";
+
+
+"ERROR_OPEN_GPX" = "打開GPX文件錯誤";
+
+
+"ERROR_OPEN_GPX_MSG" = "無法打開選定的GPX文件。";
+
+
+"ERROR_PARSE_GPX" = "解析GPX文件錯誤";
+
+
+"ERROR_PARSE_GPX_MSG" = "無法解析選定的GPX文件。文件可能損壞或格式錯誤。";
+
+
+"EXPORT_LOG_TITLE" = "導出LocationSimulator日誌";
+
+
+"EXPORT_TOOLBARITEM" = "導出";
+
+
+"EXPORT_TOOLBARITEM_TOOLTIP" = "導出日誌";
+
+
+"FILE_MENU" = "文件";
+
+
+"FIND..._MENUITEM" = "尋找…";
+
+
+"FIND_AND_REPLACE_..._MENUITEM" = "尋找和替換…";
+
+
+"FIND_MENU" = "尋找";
+
+
+"FIND_MENUITEM" = "尋找";
+
+
+"FIND_NEXT_MENUITEM" = "尋找下一個";
+
+
+"FIND_PREVIOUS_MENUITEM" = "尋找上一個";
+
+
+"FONT_MENU" = "字型";
+
+
+"FONT_MENUITEM" = "字型";
+
+
+"FORMAT_MENU" = "格式";
+
+
+"FORMAT_MENUITEM" = "格式";
+
+
+"GENERAL_TITEL_SETTING" = "一般";
+
+
+"GET_LOCATION_ERROR" = "無法獲取位置";
+
+
+"GET_LOCATION_ERROR_MSG" = "無法獲取當前位置。您是否允許 LocationSimulator 訪問此Mac的位置？";
+
+
+"GPX_SELECTION" = "選擇座標";
+
+
+"GPX_SELECTION_MSG" = "選擇軌跡、軌跡段、路線或航點以開始導航。";
+
+
+"HELP_MENU" = "幫助";
+
+
+"HELP_MENUITEM" = "幫助";
+
+
+"HIDE_APP_MENUITEM" = "隱藏LocationSimulator";
+
+
+"HIDE_OTHERS_MENUITEM" = "隱藏其他";
+
+
+"HYBRID_MENU_ITEM" = "混合";
+
+
+"IMAGE_FILE" = "圖像";
+
+
+"INFO_TITLE_SETTING" = "信息";
+
+
+"ITALIC_MENUITEM" = "斜體";
+
+
+"JUMP_TO_SELECTION_MENUITEM" = "跳轉到選擇";
+
+
+"JUSTIFY_MENUITEM" = "對齊";
+
+
+"KERN_MENU" = "字距";
+
+
+"KERN_MENUITEM" = "字距";
+
+
+"LAT" = "緯度";
+
+
+"LEFT_TO_RIGHT_MENUITEM" = "從左到右";
+
+
+"LETS_GO" = "開始！";
+
+
+"LEVEL" = "水平";
+
+
+"LICENSE_TITLE_SETTING" = "許可證";
+
+
+"LIGATURES_MENU" = "連字";
+
+
+"LIGATURES_MENUITEM" = "連字";
+
+
+"LINE_NUMBER" = "列";
+
+
+"LOCATION_CHANGE_ERROR" = "更改位置錯誤";
+
+
+"LOCATION_CHANGE_ERROR_MSG" = "無法更改位置。如果您使用的是iOS 16或以後版本，請確保已啟用開發人員模式。";
+
+
+"LOCATION_RESET_ERROR_MSG" = "無法重置位置。";
+
+
+"LOCATION_SERVICE_DISABLED" = "啟用定位服務";
+
+
+"LOCATION_SERVICE_DISABLED_MSG" = "定位服務似乎被禁用。請在系統偏好設置中啟用定位服務。";
+
+
+"LOG_TITLE" = "日誌";
+
+
+"LONG" = "經度";
+
+
+"LOOSEN_MENUITEM" = "放寬";
+
+
+"LOWER_MENUITEM" = "降低";
+
+
+"MAC_LOCATION_MENUITEM" = "使用 Mac 定位";
+
+
+"MAC_LOCATION_TOOLBARITEM_PALETTELABEL" = "當前位置";
+
+
+"MAC_LOCATION_TOOLBARITEM_TOOLTIP" = "將Mac位置設置為當前位置";
+
+
+"MAIN_MENU" = "主選單";
+
+
+"MAKE_LOWER_CASE_MENUITEM" = "轉為小寫";
+
+
+"MAKE_UPPER_CASE_MENUITEM" = "轉為大寫";
+
+
+"MESSAGE" = "消息";
+
+
+"MINIMIZE_MENUITEM" = "最小化";
+
+
+"MOUNT_ERROR" = "無法安裝 DeveloperDiskImage.dmg";
+
+
+"MOUNT_ERROR_MSG" = "無法安裝此設備的 DeveloperDiskImage。位置欺騙將無法工作。\n你的設備被鎖住了嗎？";
+
+
+"MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "移動控制行為：";
+
+
+"MOVETYPES_TOOLBARITEM_PALETTELABEL" = "移動類型";
+
+
+"MOVE_DOWN_MENUITEM" = "向下移動";
+
+
+"MOVE_LEFT_MENUITEM" = "向左移動";
+
+
+"MOVE_RIGHT_MENUITEM" = "向右移動";
+
+
+"MOVE_UP_MENUITEM" = "向上移動";
+
+
+"MOVE_WHEN_STANDING_STILL_MSG_SETTING" = "如果GPS位置在一定時間內沒有變化，則啟用隨機移動。";
+
+
+"MOVE_WHEN_STANDING_STILL_SETTING" = "靜止時移動";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "使用箭頭鍵向左、向右、向上或向下移動。";
+
+
+"NATURAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "自然";
+
+
+"NAVIGATE" = "導航";
+
+
+"NAVIGATION_MENU" = "導航";
+
+
+"NETWORK_TITEL_SETTING" = "網絡";
+
+
+"NEW_WINDOW_MENUITEM" = "新建窗口";
+
+
+"NO_DEVICE" = "未選擇設備";
+
+
+"NO_DEVICE_ERROR" = "未找到設備";
+
+
+"NO_DEVICE_MSG" = "請連接一台設備並在側邊欄中選擇該設備以開始。";
+
+
+"OF" = "的";
+
+
+"OK" = "OK";
+
+
+"ONBOARD_FINISH_HEADER" = "您已準備就緒！";
+
+
+"ONBOARD_FINISH_MESSAGE" = "您現在可以開始使用LocationSimulator了。如果您喜歡它，請考慮捐贈:)";
+
+
+"ONBOARD_MAP_HEADER" = "偽造您的位置";
+
+
+"ONBOARD_MAP_MESSAGE" = "長按地圖上的位置以偽造您當前的位置。長按另一個位置以傳送或導航至新的目的地。";
+
+
+"ONBOARD_SIDEBAR_HEADER" = "選擇您的設備";
+
+
+"ONBOARD_SIDEBAR_MESSAGE" = "在側邊欄中選擇您的設備，即可開始偽造您的位置。";
+
+
+"ONBOARD_TOOLBAR_HEADER" = "自定義工具欄";
+
+
+"ONBOARD_TOOLBAR_MESSAGE" = "您可以自定義工具欄以查找其他功能。例如，您可以添加速度滑塊或自動反向按鈕。";
+
+
+"OPEN_BUTTON" = "打開";
+
+
+"OPEN_GPX_FILE_MENUITEM" = "打開 GPX 文件…";
+
+
+"OPEN_PROJECT_PAGE_MENUITEM" = "打開項目頁面";
+
+
+"PAIR_ERROR_MSG" = "無法與設備建立連接。請確保在您的設備上信任此計算機。";
+
+
+"PARAGRAPH_MENUITEM" = "段落";
+
+
+"PASTE_AND_MATCH_STYLE_MENUITEM" = "貼上並匹配樣式";
+
+
+"PASTE_MENUITEM" = "貼上";
+
+
+"PASTE_RULER_MENUITEM" = "貼上尺規";
+
+
+"PASTE_STYLE_MENUITEM" = "貼上樣式";
+
+
+"PERMISSION_ERROR" = "權限錯誤";
+
+
+"PERMISSION_ERROR_MSG" = "無法訪問應用程式支持文件夾。";
+
+
+"PREFERENCES_MENUITEM" = "偏好設置…";
+
+
+"PREFER_NETWORK_DEVICES_MSG_SETTING" = "即使通過USB連接設備，也始終使用網絡連接。";
+
+
+"PREFER_NETWORK_DEVICES_SETTING" = "偏好網絡設備";
+
+
+"PRINT_TOOLBARITEM_TOOLTIP" = "打印";
+
+
+"PRODUCT_INFO_ERROR" = "無法獲取產品信息";
+
+
+"PROGRESS" = "下載iOS支援文件";
+
+
+"QUIT_APP_MENUITEM" = "退出LocationSimulator";
+
+
+"RAISE_MENUITEM" = "升高";
+
+
+"RECENT_LOCATIONS_MENU" = "最近的位置";
+
+
+"RECENT_LOCATIONS_MENUITEM" = "最近的位置";
+
+
+"REDO_MENUITEM" = "重做";
+
+
+"REFRESH_TOOLBARITEM" = "更新";
+
+
+"REFRESH_TOOLBARITEM_TOOLTIP" = "更新日誌";
+
+
+"REPORT_A_BUG_MENUITEM" = "報告問題";
+
+
+"RESET_LOCATION_MENUITEM" = "重置位置";
+
+
+"RESET_TOOLBARITEM_PALETTELABEL" = "重置";
+
+
+"RESET_TOOLBARITEM_TOOLTIP" = "停止偽造設備位置";
+
+
+"RIGHT_TO_LEFT_MENUITEM" = "從右到左";
+
+
+"ROTATE_CLOCKWISE_MENUITEM" = "順時針旋轉";
+
+
+"ROTATE_COUNTERCLOCKWISE_MENUITEM" = "逆時針旋轉";
+
+
+"ROUTE" = "路線";
+
+
+"SATELLITE_MENU_ITEM" = "衛星";
+
+
+"SAVE_LOG_FAILED" = "保存日誌失敗";
+
+
+"SAVE_LOG_FAILED_MSG" = "無法保存日誌文件。請確保您的用戶對此目錄有寫入權限。";
+
+
+"SEARCH_PLACEHOLDER" = "搜尋";
+
+
+"SEARCH_TOOLBARITEM_PALETTELABEL" = "搜尋";
+
+
+"SELECTION_MENUITEM" = "選擇";
+
+
+"SELECT_ALL_MENUITEM" = "選擇全部";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_BUILD_MANIFEST_TITLE" = "選擇 BuildManifest.plist";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_SIGNATURE_TITLE" = "選擇 DeveloperDiskImage.dmg簽名";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TITLE" = "選擇 DeveloperDiskImage.dmg";
+
+
+"SELECT_DEVELOPER_DISK_IMAGE_TRUSTCACHE_TITLE" = "選擇 DeveloperDiskImage.dmg.trustcache";
+
+
+"SERVICES_MENUITEM" = "服務";
+
+
+"SET_LOCATION_MENUITEM" = "設置位置…";
+
+
+"SET_SPEED_MENUITEM" = "設置速度…";
+
+
+"SHOW_ALL_MENUITEM" = "顯示全部";
+
+
+"SHOW_COLORS_MENUITEM" = "顯示顏色";
+
+
+"SHOW_COLOR_PANEL_TOOLBARITEM_TOOLTIP" = "顯示顏色面板";
+
+
+"SHOW_FONTS_MENUITEM" = "顯示字體";
+
+
+"SHOW_FONT_PANEL_TOOLBARITEM_TOOLTIP" = "顯示字體面板";
+
+
+"SHOW_IN_FINDER" = "顯示在Finder中";
+
+
+"SHOW_LOG" = "日誌…";
+
+
+"SHOW_RULER_MENUITEM" = "顯示尺規";
+
+
+"SHOW_SIDEBAR_MENUITEM" = "切換側邊欄";
+
+
+"SHOW_SPELLING_AND_GRAMMAR_MENUITEM" = "顯示拼寫和語法";
+
+
+"SHOW_SUBSTITUTIONS_MENUITEM" = "顯示替換";
+
+
+"SHOW_TOOLBAR_MENUITEM" = "切換工具欄";
+
+
+"SIGNATURE_FILE" = "簽名";
+
+
+"SIMULATOR_HEADER" = "模擬器";
+
+
+"SMALLER_MENUITEM" = "縮小";
+
+
+"SMART_COPY_PASTE_MENUITEM" = "智能複製/貼上";
+
+
+"SMART_DASHES_MENUITEM" = "智能破折號";
+
+
+"SMART_LINKS_MENUITEM" = "智能鏈接";
+
+
+"SMART_QUOTES_MENUITEM" = "智能引號";
+
+
+"SPEECH_MENU" = "語音";
+
+
+"SPEECH_MENUITEM" = "語音";
+
+
+"SPEED" = "速度";
+
+
+"SPEED_TOOLBARITEM_PALETTELABEL" = "速度";
+
+
+"SPELLING_GRAMMAR_MENU" = "拼寫和語法";
+
+
+"SPELLING_GRAMMAR_MENUITEM" = "拼寫和語法";
+
+
+"STANDARD_MENU_ITEM" = "標準";
+
+
+"START_SPEAKING_MENUITEM" = "開始朗讀";
+
+
+"STOP_NAVIGATION_MENUITEM" = "停止導航";
+
+
+"STOP_SPEAKING_MENUITEM" = "停止朗讀";
+
+
+"SUBSCRIPT_MENUITEM" = "下標";
+
+
+"SUBSTITUTIONS_MENU" = "替換";
+
+
+"SUBSTITUTIONS_MENUITEM" = "替換";
+
+
+"SUPERSCRIPT_MENUITEM" = "上標";
+
+
+"TELEPORT" = "傳送";
+
+
+"TELEPORT_OR_NAVIGATE_GPX_MSG" = "你想要導航還是傳送到這條路線的起點？";
+
+
+"TELEPORT_OR_NAVIGATE_MSG" = "你想要傳送還是導航到目的地？";
+
+
+"TEXT_MENU" = "文本";
+
+
+"TEXT_MENUITEM" = "文本";
+
+
+"TEXT_REPLACEMENT_MENUITEM" = "文本替換";
+
+
+"THREAD" = "線程";
+
+
+"TIGHTEN_MENUITEM" = "收緊";
+
+
+"TIME" = "時間";
+
+
+"TOGGLE_AUTOMOVE_MENUITEM" = "切換自動移動";
+
+
+"TOTAL_DISTANCE" = "總距離：%.3f公里";
+
+
+"TRACK" = "軌跡";
+
+
+"TRACK_SEGMENT" = "軌跡段";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_MSG_SETTING" = "使用右箭頭鍵和左箭頭鍵來順時針或逆時針改變方向。使用上箭頭鍵和下箭頭鍵來移動。";
+
+
+"TRADITIONAL_MOVEMENT_CONTROL_BEHAVIOUR_SETTING" = "傳統";
+
+
+"TRANSFORMATIONS_MENU" = "變換";
+
+
+"TRANSFORMATIONS_MENUITEM" = "變換";
+
+
+"TRUSTCACHE_FILE" = "Trustcache";
+
+
+"UNDERLINE_MENUITEM" = "下劃線";
+
+
+"UNDO_MENUITEM" = "撤銷";
+
+
+"UNKNOWN_ERROR" = "未知錯誤";
+
+
+"UNKNOWN_ERROR_MSG" = "出現未知錯誤。請斷開設備並重試。";
+
+
+"USE_ALL_MENUITEM" = "全部使用";
+
+
+"USE_DEFAULT_MENUITEM" = "使用默認值";
+
+
+"USE_NONE_MENUITEM" = "不使用";
+
+
+"USE_SELECTION_FOR_FIND_MENUITEM" = "使用選擇進行搜尋";
+
+
+"VARY_MOVEMENT_SPEED_MSG_SETTING" = "為運動速度增加變異。";
+
+
+"VARY_MOVEMENT_SPEED_SETTING" = "變化運動速度";
+
+
+"VERSION" = "版本";
+
+
+"VIEW_MENU" = "顯示";
+
+
+"VIEW_MENUITEM" = "顯示";
+
+
+"WALK_MENUITEM" = "步行";
+
+
+"WARNING_TRIANGLE_TOOLTIP" = "設備未配對";
+
+
+"WAYPOINTS" = "航點";
+
+
+"WELCOME" = "歡迎";
+
+
+"WELCOME_TEXT" = "感謝您使用 LocationSimulator！\n此軟件仍處於測試版。請報告您發現的任何錯誤。\n\n如果您喜歡這款軟件，請考慮捐贈以支持進一步的開發。";
+
+
+"WINDOW_MENU" = "視窗";
+
+
+"WINDOW_MENUITEM" = "新建窗口";
+
+
+"WRITING_DIRECTION_MENU" = "書寫方向";
+
+
+"WRITING_DIRECTION_MENUITEM" = "書寫方向";
+
+
+"ZOOM_IN_MENUITEM" = "放大";
+
+
+"ZOOM_MENUITEM" = "縮放";
+
+
+"ZOOM_OUT_MENUITEM" = "縮小";
